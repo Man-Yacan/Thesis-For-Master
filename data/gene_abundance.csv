@@ -1,0 +1,1351 @@
+ID,Period,River,variable,value
+D-H1,Dry Season,Hangbu River,AOA_amoA,528774.7529981628
+D-H2,Dry Season,Hangbu River,AOA_amoA,475030.6092058397
+D-H3,Dry Season,Hangbu River,AOA_amoA,271745.7736925764
+D-H4,Dry Season,Hangbu River,AOA_amoA,692661.2096220823
+D-H5,Dry Season,Hangbu River,AOA_amoA,488910.1622309896
+D-N1,Dry Season,Nanfei River,AOA_amoA,378556.3720485966
+D-N2,Dry Season,Nanfei River,AOA_amoA,529281.8137648967
+D-N3,Dry Season,Nanfei River,AOA_amoA,634793.9977325293
+D-N4,Dry Season,Nanfei River,AOA_amoA,663659.1163803946
+D-N5,Dry Season,Nanfei River,AOA_amoA,1207772.9346933302
+D-N6,Dry Season,Nanfei River,AOA_amoA,817786.2041702217
+D-P1,Dry Season,Pai River,AOA_amoA,753208.8881005712
+D-P2,Dry Season,Pai River,AOA_amoA,884725.4463301246
+D-P3,Dry Season,Pai River,AOA_amoA,795396.9815093385
+D-P4,Dry Season,Pai River,AOA_amoA,1158627.1758410097
+D-P5,Dry Season,Pai River,AOA_amoA,690457.716190766
+D-P6,Dry Season,Pai River,AOA_amoA,2551279.708683723
+D-P7,Dry Season,Pai River,AOA_amoA,341390.09318324964
+L-H1,Level Season,Hangbu River,AOA_amoA,437971.77230755973
+L-H10,Level Season,Hangbu River,AOA_amoA,986394.5449668488
+L-H11,Level Season,Hangbu River,AOA_amoA,861753.1236632328
+L-H12,Level Season,Hangbu River,AOA_amoA,173937.04479029938
+L-H2,Level Season,Hangbu River,AOA_amoA,445092.3874853656
+L-H3,Level Season,Hangbu River,AOA_amoA,602114.2516139809
+L-H4,Level Season,Hangbu River,AOA_amoA,283003.4615165262
+L-H5,Level Season,Hangbu River,AOA_amoA,518721.6215638838
+L-H6,Level Season,Hangbu River,AOA_amoA,706345.5512755406
+L-H7,Level Season,Hangbu River,AOA_amoA,688120.7531559913
+L-H8,Level Season,Hangbu River,AOA_amoA,1494837.0484937592
+L-H9,Level Season,Hangbu River,AOA_amoA,1105362.0582828727
+L-N1,Level Season,Nanfei River,AOA_amoA,364265.0722821359
+L-N10,Level Season,Nanfei River,AOA_amoA,703907.8190089396
+L-N11,Level Season,Nanfei River,AOA_amoA,586015.4519805666
+L-N12,Level Season,Nanfei River,AOA_amoA,864799.5262232672
+L-N2,Level Season,Nanfei River,AOA_amoA,836873.2520540537
+L-N3,Level Season,Nanfei River,AOA_amoA,279786.7677735822
+L-N4,Level Season,Nanfei River,AOA_amoA,574705.6719928349
+L-N5,Level Season,Nanfei River,AOA_amoA,427570.2613195859
+L-N6,Level Season,Nanfei River,AOA_amoA,400680.97125445085
+L-N7,Level Season,Nanfei River,AOA_amoA,564726.3156964635
+L-N8,Level Season,Nanfei River,AOA_amoA,331278.2748623463
+L-N9,Level Season,Nanfei River,AOA_amoA,648153.6533034191
+L-P1,Level Season,Pai River,AOA_amoA,923718.1189807553
+L-P10,Level Season,Pai River,AOA_amoA,863580.2078455411
+L-P11,Level Season,Pai River,AOA_amoA,647739.295121666
+L-P12,Level Season,Pai River,AOA_amoA,1051228.2842969159
+L-P2,Level Season,Pai River,AOA_amoA,1043103.8865434529
+L-P3,Level Season,Pai River,AOA_amoA,717397.4789579439
+L-P4,Level Season,Pai River,AOA_amoA,1336747.916245339
+L-P5,Level Season,Pai River,AOA_amoA,941553.5997820141
+L-P6,Level Season,Pai River,AOA_amoA,622779.3648467258
+L-P7,Level Season,Pai River,AOA_amoA,1846830.0536276153
+L-P8,Level Season,Pai River,AOA_amoA,1117481.6416391644
+L-P9,Level Season,Pai River,AOA_amoA,1006492.0935107289
+W-H1,Wet Season,Hangbu River,AOA_amoA,33526807.25724083
+W-H10,Wet Season,Hangbu River,AOA_amoA,73285817.06108531
+W-H11,Wet Season,Hangbu River,AOA_amoA,70647871.90030783
+W-H12,Wet Season,Hangbu River,AOA_amoA,93859592.10537484
+W-H2,Wet Season,Hangbu River,AOA_amoA,55126108.13184763
+W-H3,Wet Season,Hangbu River,AOA_amoA,39354801.92522116
+W-H4,Wet Season,Hangbu River,AOA_amoA,27049927.291850984
+W-H5,Wet Season,Hangbu River,AOA_amoA,35972707.25953167
+W-H6,Wet Season,Hangbu River,AOA_amoA,57852337.52460311
+W-H7,Wet Season,Hangbu River,AOA_amoA,37192748.02274317
+W-H8,Wet Season,Hangbu River,AOA_amoA,74685388.13614471
+W-H9,Wet Season,Hangbu River,AOA_amoA,42002516.68985315
+W-N1,Wet Season,Nanfei River,AOA_amoA,19575282.798292894
+W-N10,Wet Season,Nanfei River,AOA_amoA,33534404.90831908
+W-N11,Wet Season,Nanfei River,AOA_amoA,21500193.4870115
+W-N12,Wet Season,Nanfei River,AOA_amoA,32794906.246144984
+W-N2,Wet Season,Nanfei River,AOA_amoA,57548693.177560635
+W-N3,Wet Season,Nanfei River,AOA_amoA,34108700.495245226
+W-N4,Wet Season,Nanfei River,AOA_amoA,26444137.571094118
+W-N5,Wet Season,Nanfei River,AOA_amoA,39457719.27737102
+W-N6,Wet Season,Nanfei River,AOA_amoA,21996507.849968843
+W-N7,Wet Season,Nanfei River,AOA_amoA,29701583.411814477
+W-N8,Wet Season,Nanfei River,AOA_amoA,49790485.35780897
+W-N9,Wet Season,Nanfei River,AOA_amoA,17143073.370414518
+W-P1,Wet Season,Pai River,AOA_amoA,16555746.565154416
+W-P10,Wet Season,Pai River,AOA_amoA,25616702.521806188
+W-P11,Wet Season,Pai River,AOA_amoA,42878084.32743038
+W-P12,Wet Season,Pai River,AOA_amoA,29035965.655056182
+W-P2,Wet Season,Pai River,AOA_amoA,44401231.9252757
+W-P3,Wet Season,Pai River,AOA_amoA,40711183.3617561
+W-P4,Wet Season,Pai River,AOA_amoA,27870857.317042388
+W-P5,Wet Season,Pai River,AOA_amoA,44674465.52516158
+W-P6,Wet Season,Pai River,AOA_amoA,30382958.233582657
+W-P7,Wet Season,Pai River,AOA_amoA,11332038.399332855
+W-P8,Wet Season,Pai River,AOA_amoA,24937293.069449425
+W-P9,Wet Season,Pai River,AOA_amoA,20757609.223893467
+D-H1,Dry Season,Hangbu River,AOB_amoA,2567.5259671065587
+D-H2,Dry Season,Hangbu River,AOB_amoA,2961.0529278881995
+D-H3,Dry Season,Hangbu River,AOB_amoA,3111.5083924795963
+D-H4,Dry Season,Hangbu River,AOB_amoA,3221.427222320979
+D-H5,Dry Season,Hangbu River,AOB_amoA,3404.719482027162
+D-N1,Dry Season,Nanfei River,AOB_amoA,619.3896279594586
+D-N2,Dry Season,Nanfei River,AOB_amoA,877.7215714474771
+D-N3,Dry Season,Nanfei River,AOB_amoA,1071.2090874919913
+D-N4,Dry Season,Nanfei River,AOB_amoA,1269.7474182617714
+D-N5,Dry Season,Nanfei River,AOB_amoA,1371.135950219141
+D-N6,Dry Season,Nanfei River,AOB_amoA,1426.5256686008238
+D-P1,Dry Season,Pai River,AOB_amoA,1502.4553374461004
+D-P2,Dry Season,Pai River,AOB_amoA,1620.9138425746937
+D-P3,Dry Season,Pai River,AOB_amoA,1814.2412485913155
+D-P4,Dry Season,Pai River,AOB_amoA,1967.9773893166973
+D-P5,Dry Season,Pai River,AOB_amoA,2045.3213233075655
+D-P6,Dry Season,Pai River,AOB_amoA,2104.958848176779
+D-P7,Dry Season,Pai River,AOB_amoA,2186.734854388382
+L-H1,Level Season,Hangbu River,AOB_amoA,17509.848211352066
+L-H10,Level Season,Hangbu River,AOB_amoA,22514.9367125876
+L-H11,Level Season,Hangbu River,AOB_amoA,17854.028154633754
+L-H12,Level Season,Hangbu River,AOB_amoA,52900.22437275445
+L-H2,Level Season,Hangbu River,AOB_amoA,17678.82403618763
+L-H3,Level Season,Hangbu River,AOB_amoA,20764.017098471817
+L-H4,Level Season,Hangbu River,AOB_amoA,25736.767130852182
+L-H5,Level Season,Hangbu River,AOB_amoA,16245.241892010597
+L-H6,Level Season,Hangbu River,AOB_amoA,17992.710644084822
+L-H7,Level Season,Hangbu River,AOB_amoA,20584.10465713766
+L-H8,Level Season,Hangbu River,AOB_amoA,10709.549120359641
+L-H9,Level Season,Hangbu River,AOB_amoA,17034.33934342863
+L-N1,Level Season,Nanfei River,AOB_amoA,89805.02612147137
+L-N10,Level Season,Nanfei River,AOB_amoA,45474.847681304775
+L-N11,Level Season,Nanfei River,AOB_amoA,42129.17822080547
+L-N12,Level Season,Nanfei River,AOB_amoA,39048.29434705915
+L-N2,Level Season,Nanfei River,AOB_amoA,84759.7806740677
+L-N3,Level Season,Nanfei River,AOB_amoA,77215.77190820231
+L-N4,Level Season,Nanfei River,AOB_amoA,74912.63853803008
+L-N5,Level Season,Nanfei River,AOB_amoA,69184.03081137112
+L-N6,Level Season,Nanfei River,AOB_amoA,63992.4616435583
+L-N7,Level Season,Nanfei River,AOB_amoA,58668.62578212479
+L-N8,Level Season,Nanfei River,AOB_amoA,56097.88742559001
+L-N9,Level Season,Nanfei River,AOB_amoA,50214.07223236716
+L-P1,Level Season,Pai River,AOB_amoA,35858.287587003426
+L-P10,Level Season,Pai River,AOB_amoA,18032.391235560513
+L-P11,Level Season,Pai River,AOB_amoA,14651.823900561216
+L-P12,Level Season,Pai River,AOB_amoA,12558.91198310544
+L-P2,Level Season,Pai River,AOB_amoA,30123.510306188105
+L-P3,Level Season,Pai River,AOB_amoA,26660.433908319497
+L-P4,Level Season,Pai River,AOB_amoA,21605.655928786982
+L-P5,Level Season,Pai River,AOB_amoA,19537.066629215908
+L-P6,Level Season,Pai River,AOB_amoA,13133.635007814872
+L-P7,Level Season,Pai River,AOB_amoA,14180.307522716606
+L-P8,Level Season,Pai River,AOB_amoA,16985.486210893534
+L-P9,Level Season,Pai River,AOB_amoA,21132.318942813392
+W-H1,Wet Season,Hangbu River,AOB_amoA,181787.74190270828
+W-H10,Wet Season,Hangbu River,AOB_amoA,309453.54164957925
+W-H11,Wet Season,Hangbu River,AOB_amoA,376509.1684566807
+W-H12,Wet Season,Hangbu River,AOB_amoA,545113.8219866632
+W-H2,Wet Season,Hangbu River,AOB_amoA,187227.57176485655
+W-H3,Wet Season,Hangbu River,AOB_amoA,198058.66241307274
+W-H4,Wet Season,Hangbu River,AOB_amoA,215588.33812757864
+W-H5,Wet Season,Hangbu River,AOB_amoA,228026.9188945109
+W-H6,Wet Season,Hangbu River,AOB_amoA,236164.28928576023
+W-H7,Wet Season,Hangbu River,AOB_amoA,253044.25571463202
+W-H8,Wet Season,Hangbu River,AOB_amoA,271898.1469224953
+W-H9,Wet Season,Hangbu River,AOB_amoA,292094.34746585996
+W-N1,Wet Season,Nanfei River,AOB_amoA,7292516.207901443
+W-N10,Wet Season,Nanfei River,AOB_amoA,3134022.363495202
+W-N11,Wet Season,Nanfei River,AOB_amoA,2879794.382582691
+W-N12,Wet Season,Nanfei River,AOB_amoA,2694870.324186213
+W-N2,Wet Season,Nanfei River,AOB_amoA,6338226.07500039
+W-N3,Wet Season,Nanfei River,AOB_amoA,5703769.849332436
+W-N4,Wet Season,Nanfei River,AOB_amoA,5056172.2741033
+W-N5,Wet Season,Nanfei River,AOB_amoA,4730633.432222329
+W-N6,Wet Season,Nanfei River,AOB_amoA,4345359.80417679
+W-N7,Wet Season,Nanfei River,AOB_amoA,3932972.166838378
+W-N8,Wet Season,Nanfei River,AOB_amoA,3604812.2215111926
+W-N9,Wet Season,Nanfei River,AOB_amoA,3358421.2838926762
+W-P1,Wet Season,Pai River,AOB_amoA,2679335.552220168
+W-P10,Wet Season,Pai River,AOB_amoA,165173.59905219256
+W-P11,Wet Season,Pai River,AOB_amoA,171589.87472412703
+W-P12,Wet Season,Pai River,AOB_amoA,177140.04677088128
+W-P2,Wet Season,Pai River,AOB_amoA,2503556.8711128463
+W-P3,Wet Season,Pai River,AOB_amoA,2328087.4853931
+W-P4,Wet Season,Pai River,AOB_amoA,2222304.2495941026
+W-P5,Wet Season,Pai River,AOB_amoA,2146954.013445299
+W-P6,Wet Season,Pai River,AOB_amoA,2113372.0429153927
+W-P7,Wet Season,Pai River,AOB_amoA,145377.24888862215
+W-P8,Wet Season,Pai River,AOB_amoA,151171.08441116614
+W-P9,Wet Season,Pai River,AOB_amoA,156244.81909619484
+D-H1,Dry Season,Hangbu River,Archaeal 16S rRNA,50023946.45130529
+D-H2,Dry Season,Hangbu River,Archaeal 16S rRNA,48827561.96236941
+D-H3,Dry Season,Hangbu River,Archaeal 16S rRNA,40179632.77870814
+D-H4,Dry Season,Hangbu River,Archaeal 16S rRNA,39963155.19782309
+D-H5,Dry Season,Hangbu River,Archaeal 16S rRNA,37934689.538872175
+D-N1,Dry Season,Nanfei River,Archaeal 16S rRNA,39483669.583787024
+D-N2,Dry Season,Nanfei River,Archaeal 16S rRNA,43838440.28770894
+D-N3,Dry Season,Nanfei River,Archaeal 16S rRNA,40017788.50881412
+D-N4,Dry Season,Nanfei River,Archaeal 16S rRNA,55207026.179671474
+D-N5,Dry Season,Nanfei River,Archaeal 16S rRNA,65926242.36429982
+D-N6,Dry Season,Nanfei River,Archaeal 16S rRNA,76296391.8350931
+D-P1,Dry Season,Pai River,Archaeal 16S rRNA,100022938.331086
+D-P2,Dry Season,Pai River,Archaeal 16S rRNA,85632084.58752507
+D-P3,Dry Season,Pai River,Archaeal 16S rRNA,140468072.26444793
+D-P4,Dry Season,Pai River,Archaeal 16S rRNA,95203862.05735697
+D-P5,Dry Season,Pai River,Archaeal 16S rRNA,81481809.4435523
+D-P6,Dry Season,Pai River,Archaeal 16S rRNA,110130740.15809181
+D-P7,Dry Season,Pai River,Archaeal 16S rRNA,76514664.653667
+L-H1,Level Season,Hangbu River,Archaeal 16S rRNA,47482528.81279869
+L-H10,Level Season,Hangbu River,Archaeal 16S rRNA,61393815.619677134
+L-H11,Level Season,Hangbu River,Archaeal 16S rRNA,51452579.76443648
+L-H12,Level Season,Hangbu River,Archaeal 16S rRNA,84980221.1044364
+L-H2,Level Season,Hangbu River,Archaeal 16S rRNA,42216125.882126205
+L-H3,Level Season,Hangbu River,Archaeal 16S rRNA,44537907.951107755
+L-H4,Level Season,Hangbu River,Archaeal 16S rRNA,44506069.436840735
+L-H5,Level Season,Hangbu River,Archaeal 16S rRNA,47993347.85842266
+L-H6,Level Season,Hangbu River,Archaeal 16S rRNA,57761423.98182917
+L-H7,Level Season,Hangbu River,Archaeal 16S rRNA,45319901.062173605
+L-H8,Level Season,Hangbu River,Archaeal 16S rRNA,75093340.06729369
+L-H9,Level Season,Hangbu River,Archaeal 16S rRNA,38608534.62996969
+L-N1,Level Season,Nanfei River,Archaeal 16S rRNA,41862859.32059852
+L-N10,Level Season,Nanfei River,Archaeal 16S rRNA,40970992.858021
+L-N11,Level Season,Nanfei River,Archaeal 16S rRNA,46188595.24607363
+L-N12,Level Season,Nanfei River,Archaeal 16S rRNA,48920789.061453074
+L-N2,Level Season,Nanfei River,Archaeal 16S rRNA,35737502.9556515
+L-N3,Level Season,Nanfei River,Archaeal 16S rRNA,40803380.23134345
+L-N4,Level Season,Nanfei River,Archaeal 16S rRNA,57572625.786170155
+L-N5,Level Season,Nanfei River,Archaeal 16S rRNA,51228384.71867285
+L-N6,Level Season,Nanfei River,Archaeal 16S rRNA,61429173.07297188
+L-N7,Level Season,Nanfei River,Archaeal 16S rRNA,50005912.92645436
+L-N8,Level Season,Nanfei River,Archaeal 16S rRNA,27732226.315791994
+L-N9,Level Season,Nanfei River,Archaeal 16S rRNA,66940851.05934126
+L-P1,Level Season,Pai River,Archaeal 16S rRNA,73084754.82023771
+L-P10,Level Season,Pai River,Archaeal 16S rRNA,91706634.5290842
+L-P11,Level Season,Pai River,Archaeal 16S rRNA,115437475.02892657
+L-P12,Level Season,Pai River,Archaeal 16S rRNA,79980962.54398863
+L-P2,Level Season,Pai River,Archaeal 16S rRNA,76035378.17185234
+L-P3,Level Season,Pai River,Archaeal 16S rRNA,101647116.04137371
+L-P4,Level Season,Pai River,Archaeal 16S rRNA,89613494.15981688
+L-P5,Level Season,Pai River,Archaeal 16S rRNA,95324410.34348568
+L-P6,Level Season,Pai River,Archaeal 16S rRNA,89658986.18587017
+L-P7,Level Season,Pai River,Archaeal 16S rRNA,95919949.31851177
+L-P8,Level Season,Pai River,Archaeal 16S rRNA,92343550.085046
+L-P9,Level Season,Pai River,Archaeal 16S rRNA,95655721.91267216
+W-H1,Wet Season,Hangbu River,Archaeal 16S rRNA,353702427900.5772
+W-H10,Wet Season,Hangbu River,Archaeal 16S rRNA,727321237083.3956
+W-H11,Wet Season,Hangbu River,Archaeal 16S rRNA,703152493520.7352
+W-H12,Wet Season,Hangbu River,Archaeal 16S rRNA,913666826095.3873
+W-H2,Wet Season,Hangbu River,Archaeal 16S rRNA,559405879155.7181
+W-H3,Wet Season,Hangbu River,Archaeal 16S rRNA,410019389340.05756
+W-H4,Wet Season,Hangbu River,Archaeal 16S rRNA,290199665573.25854
+W-H5,Wet Season,Hangbu River,Archaeal 16S rRNA,377423800659.82074
+W-H6,Wet Season,Hangbu River,Archaeal 16S rRNA,584860714188.2495
+W-H7,Wet Season,Hangbu River,Archaeal 16S rRNA,389208679630.6766
+W-H8,Wet Season,Hangbu River,Archaeal 16S rRNA,740116314204.2104
+W-H9,Wet Season,Hangbu River,Archaeal 16S rRNA,435383817294.17596
+W-N1,Wet Season,Nanfei River,Archaeal 16S rRNA,215384603251.20554
+W-N10,Wet Season,Nanfei River,Archaeal 16S rRNA,353776318193.9388
+W-N11,Wet Season,Nanfei River,Archaeal 16S rRNA,234836650622.95743
+W-N12,Wet Season,Nanfei River,Archaeal 16S rRNA,346578246649.72125
+W-N2,Wet Season,Nanfei River,Archaeal 16S rRNA,582030302445.4723
+W-N3,Wet Season,Nanfei River,Archaeal 16S rRNA,359357784140.24554
+W-N4,Wet Season,Nanfei River,Archaeal 16S rRNA,284203145197.2561
+W-N5,Wet Season,Nanfei River,Archaeal 16S rRNA,411007747395.03656
+W-N6,Wet Season,Nanfei River,Archaeal 16S rRNA,239829578556.51273
+W-N7,Wet Season,Nanfei River,Archaeal 16S rRNA,316327354738.31934
+W-N8,Wet Season,Nanfei River,Archaeal 16S rRNA,509296661247.78864
+W-N9,Wet Season,Nanfei River,Archaeal 16S rRNA,190589003568.79712
+W-P1,Wet Season,Pai River,Archaeal 16S rRNA,184561454215.8712
+W-P10,Wet Season,Pai River,Archaeal 16S rRNA,275995215334.8
+W-P11,Wet Season,Pai River,Archaeal 16S rRNA,443743678088.30194
+W-P12,Wet Season,Pai River,Archaeal 16S rRNA,309786584957.48895
+W-P2,Wet Season,Pai River,Archaeal 16S rRNA,458254992264.37726
+W-P3,Wet Season,Pai River,Archaeal 16S rRNA,423029289526.0359
+W-P4,Wet Season,Pai River,Archaeal 16S rRNA,298309104076.70526
+W-P5,Wet Season,Pai River,Archaeal 16S rRNA,460853988823.38586
+W-P6,Wet Season,Pai River,Archaeal 16S rRNA,323011109217.0834
+W-P7,Wet Season,Pai River,Archaeal 16S rRNA,130126509630.234
+W-P8,Wet Season,Pai River,Archaeal 16S rRNA,269240179980.24063
+W-P9,Wet Season,Pai River,Archaeal 16S rRNA,227349339643.71704
+D-H1,Dry Season,Hangbu River,Bacterial 16S rRNA,456363022.78871
+D-H2,Dry Season,Hangbu River,Bacterial 16S rRNA,236296415.99509758
+D-H3,Dry Season,Hangbu River,Bacterial 16S rRNA,237329274.52518895
+D-H4,Dry Season,Hangbu River,Bacterial 16S rRNA,296143406.5247441
+D-H5,Dry Season,Hangbu River,Bacterial 16S rRNA,283098964.65820456
+D-N1,Dry Season,Nanfei River,Bacterial 16S rRNA,198168187.90142536
+D-N2,Dry Season,Nanfei River,Bacterial 16S rRNA,482945976.6598194
+D-N3,Dry Season,Nanfei River,Bacterial 16S rRNA,216287005.6246772
+D-N4,Dry Season,Nanfei River,Bacterial 16S rRNA,263550657.7894053
+D-N5,Dry Season,Nanfei River,Bacterial 16S rRNA,483329050.17073387
+D-N6,Dry Season,Nanfei River,Bacterial 16S rRNA,526723769.91921693
+D-P1,Dry Season,Pai River,Bacterial 16S rRNA,278805999.8382971
+D-P2,Dry Season,Pai River,Bacterial 16S rRNA,574822952.9565059
+D-P3,Dry Season,Pai River,Bacterial 16S rRNA,161500339.4290133
+D-P4,Dry Season,Pai River,Bacterial 16S rRNA,338617615.63879985
+D-P5,Dry Season,Pai River,Bacterial 16S rRNA,313573723.0764781
+D-P6,Dry Season,Pai River,Bacterial 16S rRNA,315592849.7179588
+D-P7,Dry Season,Pai River,Bacterial 16S rRNA,376167689.72241235
+L-H1,Level Season,Hangbu River,Bacterial 16S rRNA,276587931.97748744
+L-H10,Level Season,Hangbu River,Bacterial 16S rRNA,333927887.9215803
+L-H11,Level Season,Hangbu River,Bacterial 16S rRNA,344601589.1337365
+L-H12,Level Season,Hangbu River,Bacterial 16S rRNA,1204111284.0906045
+L-H2,Level Season,Hangbu River,Bacterial 16S rRNA,329791301.15689266
+L-H3,Level Season,Hangbu River,Bacterial 16S rRNA,343381015.5670662
+L-H4,Level Season,Hangbu River,Bacterial 16S rRNA,132356650.85578516
+L-H5,Level Season,Hangbu River,Bacterial 16S rRNA,229190991.45537657
+L-H6,Level Season,Hangbu River,Bacterial 16S rRNA,387997323.13568217
+L-H7,Level Season,Hangbu River,Bacterial 16S rRNA,275433421.80509776
+L-H8,Level Season,Hangbu River,Bacterial 16S rRNA,381090189.4274595
+L-H9,Level Season,Hangbu River,Bacterial 16S rRNA,294767866.4009233
+L-N1,Level Season,Nanfei River,Bacterial 16S rRNA,409310791.1610664
+L-N10,Level Season,Nanfei River,Bacterial 16S rRNA,311732939.5305783
+L-N11,Level Season,Nanfei River,Bacterial 16S rRNA,360190700.52639014
+L-N12,Level Season,Nanfei River,Bacterial 16S rRNA,325581413.5944613
+L-N2,Level Season,Nanfei River,Bacterial 16S rRNA,355358061.9926279
+L-N3,Level Season,Nanfei River,Bacterial 16S rRNA,701134006.7635866
+L-N4,Level Season,Nanfei River,Bacterial 16S rRNA,1935412375.1452856
+L-N5,Level Season,Nanfei River,Bacterial 16S rRNA,714468231.6607295
+L-N6,Level Season,Nanfei River,Bacterial 16S rRNA,1243963146.7517982
+L-N7,Level Season,Nanfei River,Bacterial 16S rRNA,1178530154.2860732
+L-N8,Level Season,Nanfei River,Bacterial 16S rRNA,800997152.5816357
+L-N9,Level Season,Nanfei River,Bacterial 16S rRNA,1587563758.6873007
+L-P1,Level Season,Pai River,Bacterial 16S rRNA,1593499146.1290855
+L-P10,Level Season,Pai River,Bacterial 16S rRNA,1246335331.9264224
+L-P11,Level Season,Pai River,Bacterial 16S rRNA,1427421677.0707643
+L-P12,Level Season,Pai River,Bacterial 16S rRNA,1263936124.1052332
+L-P2,Level Season,Pai River,Bacterial 16S rRNA,1632283634.2352617
+L-P3,Level Season,Pai River,Bacterial 16S rRNA,1534750819.5447967
+L-P4,Level Season,Pai River,Bacterial 16S rRNA,1012866461.9002035
+L-P5,Level Season,Pai River,Bacterial 16S rRNA,841705047.9264151
+L-P6,Level Season,Pai River,Bacterial 16S rRNA,1075585504.4176528
+L-P7,Level Season,Pai River,Bacterial 16S rRNA,1639936510.7087781
+L-P8,Level Season,Pai River,Bacterial 16S rRNA,1181627662.206551
+L-P9,Level Season,Pai River,Bacterial 16S rRNA,752936133.9636873
+W-H1,Wet Season,Hangbu River,Bacterial 16S rRNA,1071468657.401169
+W-H10,Wet Season,Hangbu River,Bacterial 16S rRNA,663106531.3590399
+W-H11,Wet Season,Hangbu River,Bacterial 16S rRNA,1578192528.1852665
+W-H12,Wet Season,Hangbu River,Bacterial 16S rRNA,1034594742.350462
+W-H2,Wet Season,Hangbu River,Bacterial 16S rRNA,1648263550.4052088
+W-H3,Wet Season,Hangbu River,Bacterial 16S rRNA,1014283560.9393474
+W-H4,Wet Season,Hangbu River,Bacterial 16S rRNA,1186815440.2906048
+W-H5,Wet Season,Hangbu River,Bacterial 16S rRNA,626561921.9907855
+W-H6,Wet Season,Hangbu River,Bacterial 16S rRNA,1387140757.632544
+W-H7,Wet Season,Hangbu River,Bacterial 16S rRNA,970241782.1515143
+W-H8,Wet Season,Hangbu River,Bacterial 16S rRNA,1288483552.2706883
+W-H9,Wet Season,Hangbu River,Bacterial 16S rRNA,417605933.3865597
+W-N1,Wet Season,Nanfei River,Bacterial 16S rRNA,239105051.40938407
+W-N10,Wet Season,Nanfei River,Bacterial 16S rRNA,349836847.2705889
+W-N11,Wet Season,Nanfei River,Bacterial 16S rRNA,411930539.6994562
+W-N12,Wet Season,Nanfei River,Bacterial 16S rRNA,352573668.0325105
+W-N2,Wet Season,Nanfei River,Bacterial 16S rRNA,536147758.13843155
+W-N3,Wet Season,Nanfei River,Bacterial 16S rRNA,382441766.0206268
+W-N4,Wet Season,Nanfei River,Bacterial 16S rRNA,369537848.2399288
+W-N5,Wet Season,Nanfei River,Bacterial 16S rRNA,393775673.6341365
+W-N6,Wet Season,Nanfei River,Bacterial 16S rRNA,271707984.9035796
+W-N7,Wet Season,Nanfei River,Bacterial 16S rRNA,355967149.33141476
+W-N8,Wet Season,Nanfei River,Bacterial 16S rRNA,318649270.1721688
+W-N9,Wet Season,Nanfei River,Bacterial 16S rRNA,342052400.74721205
+W-P1,Wet Season,Pai River,Bacterial 16S rRNA,379682635.86226666
+W-P10,Wet Season,Pai River,Bacterial 16S rRNA,437275999.9709469
+W-P11,Wet Season,Pai River,Bacterial 16S rRNA,343886736.4270419
+W-P12,Wet Season,Pai River,Bacterial 16S rRNA,345624825.6045039
+W-P2,Wet Season,Pai River,Bacterial 16S rRNA,285013872.5687087
+W-P3,Wet Season,Pai River,Bacterial 16S rRNA,246241639.19163942
+W-P4,Wet Season,Pai River,Bacterial 16S rRNA,269233709.0566716
+W-P5,Wet Season,Pai River,Bacterial 16S rRNA,398928459.55820143
+W-P6,Wet Season,Pai River,Bacterial 16S rRNA,395444181.05283266
+W-P7,Wet Season,Pai River,Bacterial 16S rRNA,360920293.43655485
+W-P8,Wet Season,Pai River,Bacterial 16S rRNA,425392551.4542221
+W-P9,Wet Season,Pai River,Bacterial 16S rRNA,297740871.67568576
+D-H1,Dry Season,Hangbu River,cnorB,287792.5985400838
+D-H2,Dry Season,Hangbu River,cnorB,128392.41036760686
+D-H3,Dry Season,Hangbu River,cnorB,129080.95522080243
+D-H4,Dry Season,Hangbu River,cnorB,169344.57473659524
+D-H5,Dry Season,Hangbu River,cnorB,160243.46567396782
+D-N1,Dry Season,Nanfei River,cnorB,103471.80554736467
+D-N2,Dry Season,Nanfei River,cnorB,308483.4511628801
+D-N3,Dry Season,Nanfei River,cnorB,115190.56376853983
+D-N4,Dry Season,Nanfei River,cnorB,146782.48830703
+D-N5,Dry Season,Nanfei River,cnorB,308783.5394829002
+D-N6,Dry Season,Nanfei River,cnorB,343118.38607757294
+D-P1,Dry Season,Pai River,cnorB,157268.75092156694
+D-P2,Dry Season,Pai River,cnorB,381929.59127929027
+D-P3,Dry Season,Pai River,cnorB,80510.57175339224
+D-P4,Dry Season,Pai River,cnorB,199595.5176362359
+D-P5,Dry Season,Pai River,cnorB,181647.52580434358
+D-P6,Dry Season,Pai River,cnorB,183082.89572128688
+D-P7,Dry Season,Pai River,cnorB,227069.09209459525
+L-H1,Level Season,Hangbu River,cnorB,155735.83645741627
+L-H10,Level Season,Hangbu River,cnorB,196210.9748657292
+L-H11,Level Season,Hangbu River,cnorB,203929.52028089648
+L-H12,Level Season,Hangbu River,cnorB,945771.6024002909
+L-H2,Level Season,Hangbu River,cnorB,193234.54041711532
+L-H3,Level Season,Hangbu River,cnorB,203044.1045740661
+L-H4,Level Season,Hangbu River,cnorB,63076.43764319089
+L-H5,Level Season,Hangbu River,cnorB,123674.22340036863
+L-H6,Level Season,Hangbu River,cnorB,235856.74228703007
+L-H7,Level Season,Hangbu River,cnorB,154939.04916666585
+L-H8,Level Season,Hangbu River,cnorB,230718.28916556347
+L-H9,Level Season,Hangbu River,cnorB,168380.50469089192
+L-N1,Level Season,Nanfei River,cnorB,251842.0949702926
+L-N10,Level Season,Nanfei River,cnorB,180340.75857573797
+L-N11,Level Season,Nanfei River,cnorB,215299.79239917514
+L-N12,Level Season,Nanfei River,cnorB,190214.02585794602
+L-N2,Level Season,Nanfei River,cnorB,211762.8497528183
+L-N3,Level Season,Nanfei River,cnorB,487272.5507009699
+L-N4,Level Season,Nanfei River,cnorB,1692520.5718771096
+L-N5,Level Season,Nanfei River,cnorB,498660.9416625651
+L-N6,Level Season,Nanfei River,cnorB,984299.2611200239
+L-N7,Level Season,Nanfei River,cnorB,921191.5360417444
+L-N8,Level Season,Nanfei River,cnorB,573704.780953071
+L-N9,Level Season,Nanfei River,cnorB,1327457.8322520312
+L-P1,Level Season,Pai River,cnorB,1333546.4234497654
+L-P10,Level Season,Pai River,cnorB,986601.5327741883
+L-P11,Level Season,Pai River,cnorB,1165176.8032185405
+L-P12,Level Season,Pai River,cnorB,1003714.474112768
+L-P2,Level Season,Pai River,cnorB,1373457.735818438
+L-P3,Level Season,Pai River,cnorB,1273510.1849094061
+L-P4,Level Season,Pai River,cnorB,765021.9063585608
+L-P5,Level Season,Pai River,cnorB,609662.2546759312
+L-P6,Level Season,Pai River,cnorB,823514.517489224
+L-P7,Level Season,Pai River,cnorB,1381358.500165141
+L-P8,Level Season,Pai River,cnorB,924161.4604424787
+L-P9,Level Season,Pai River,cnorB,531783.0244809235
+W-H1,Wet Season,Hangbu River,cnorB,819650.8706458791
+W-H10,Wet Season,Hangbu River,cnorB,455065.4764900184
+W-H11,Wet Season,Hangbu River,cnorB,1317855.200847058
+W-H12,Wet Season,Hangbu River,cnorB,785195.7582639195
+W-H2,Wet Season,Hangbu River,cnorB,1389964.7471047614
+W-H3,Wet Season,Hangbu River,cnorB,766334.6662165532
+W-H4,Wet Season,Hangbu River,cnorB,929139.5043177303
+W-H5,Wet Season,Hangbu River,cnorB,424505.55161940376
+W-H6,Wet Season,Hangbu River,cnorB,1124985.281089294
+W-H7,Wet Season,Hangbu River,cnorB,725731.9417815153
+W-H8,Wet Season,Hangbu River,cnorB,1027671.5781259473
+W-H9,Wet Season,Hangbu River,cnorB,258115.2095894924
+W-N1,Wet Season,Nanfei River,cnorB,130266.34384434357
+W-N10,Wet Season,Nanfei River,cnorB,207735.2557446759
+W-N11,Wet Season,Nanfei River,cnorB,253820.17244862596
+W-N12,Wet Season,Nanfei River,cnorB,209729.91712160985
+W-N2,Wet Season,Nanfei River,cnorB,350661.7449498652
+W-N3,Wet Season,Nanfei River,cnorB,231722.12728452365
+W-N4,Wet Season,Nanfei River,cnorB,222171.2648901248
+W-N5,Wet Season,Nanfei River,cnorB,240171.40196345514
+W-N6,Wet Season,Nanfei River,cnorB,152373.09640450188
+W-N7,Wet Season,Nanfei River,cnorB,212208.0363035306
+W-N8,Wet Season,Nanfei River,cnorB,185259.6171581512
+W-N9,Wet Season,Nanfei River,cnorB,202081.12401803603
+W-P1,Wet Season,Pai River,cnorB,229673.7321196532
+W-P10,Wet Season,Pai River,cnorB,273102.68409121863
+W-P11,Wet Season,Pai River,cnorB,203410.87304309077
+W-P12,Wet Season,Pai River,cnorB,204672.3329313397
+W-P2,Wet Season,Pai River,cnorB,161573.66371060762
+W-P3,Wet Season,Pai River,cnorB,135050.2412057436
+W-P4,Wet Season,Pai River,cnorB,150673.28818723586
+W-P5,Wet Season,Pai River,cnorB,244031.0666720038
+W-P6,Wet Season,Pai River,cnorB,241419.94400835302
+W-P7,Wet Season,Pai River,cnorB,215834.70875338558
+W-P8,Wet Season,Pai River,cnorB,264029.48315079464
+W-P9,Wet Season,Pai River,cnorB,170465.45679133447
+D-H1,Dry Season,Hangbu River,hzo,13368711.253943916
+D-H2,Dry Season,Hangbu River,hzo,13079201.715595784
+D-H3,Dry Season,Hangbu River,hzo,10965087.867907412
+D-H4,Dry Season,Hangbu River,hzo,10911642.358516648
+D-H5,Dry Season,Hangbu River,hzo,10409473.075399682
+D-N1,Dry Season,Nanfei River,hzo,10793164.808226895
+D-N2,Dry Season,Nanfei River,hzo,11864362.673035314
+D-N3,Dry Season,Nanfei River,hzo,10925133.21920662
+D-N4,Dry Season,Nanfei River,hzo,14615525.812228415
+D-N5,Dry Season,Nanfei River,hzo,17159879.773000926
+D-N6,Dry Season,Nanfei River,hzo,19583806.023810074
+D-P1,Dry Season,Pai River,hzo,25018159.850281026
+D-P2,Dry Season,Pai River,hzo,21738971.401765205
+D-P3,Dry Season,Pai River,hzo,34012651.83108889
+D-P4,Dry Season,Pai River,hzo,23925421.21471637
+D-P5,Dry Season,Pai River,hzo,20783797.913302917
+D-P6,Dry Season,Pai River,hzo,27294119.089118
+D-P7,Dry Season,Pai River,hzo,19634471.670093495
+L-H1,Level Season,Hangbu River,hzo,12752909.751602065
+L-H10,Level Season,Hangbu River,hzo,16089277.544872304
+L-H11,Level Season,Hangbu River,hzo,13713557.565412777
+L-H12,Level Season,Hangbu River,hzo,21589245.25876783
+L-H2,Level Season,Hangbu River,hzo,11466546.649164261
+L-H3,Level Season,Hangbu River,hzo,12035446.045384161
+L-H4,Level Season,Hangbu River,hzo,12027664.24394539
+L-H5,Level Season,Hangbu River,hzo,12876932.184362456
+L-H6,Level Season,Hangbu River,hzo,15225825.94197844
+L-H7,Level Season,Hangbu River,hzo,12226410.822893355
+L-H8,Level Season,Hangbu River,hzo,19304302.99238439
+L-H9,Level Season,Hangbu River,hzo,10576569.069045229
+L-N1,Level Season,Nanfei River,hzo,11379728.390003832
+L-N10,Level Season,Nanfei River,hzo,11160231.53307445
+L-N11,Level Season,Nanfei River,hzo,12438179.593062691
+L-N12,Level Season,Nanfei River,hzo,13101785.614074437
+L-N2,Level Season,Nanfei River,hzo,9862626.311892614
+L-N3,Level Season,Nanfei River,hzo,11118929.769656105
+L-N4,Level Season,Nanfei River,hzo,15180807.66729561
+L-N5,Level Season,Nanfei River,hzo,13659502.091523295
+L-N6,Level Season,Nanfei River,hzo,16097657.874160133
+L-N7,Level Season,Nanfei River,hzo,13364352.324553581
+L-N8,Level Season,Nanfei River,hzo,7841117.305353405
+L-N9,Level Season,Nanfei River,hzo,17398560.27879968
+L-P1,Level Season,Pai River,hzo,18836693.545735665
+L-P10,Level Season,Pai River,hzo,23129113.286163174
+L-P11,Level Season,Pai River,hzo,28480937.368667748
+L-P12,Level Season,Pai River,hzo,20437248.304954417
+L-P2,Level Season,Pai River,hzo,19523201.150263455
+L-P3,Level Season,Pai River,hzo,25385302.082199287
+L-P4,Level Season,Pai River,hzo,22651128.508687295
+L-P5,Level Season,Pai River,hzo,23952819.282808017
+L-P6,Level Season,Pai River,hzo,22661528.22079975
+L-P7,Level Season,Pai River,hzo,24088124.167142875
+L-P8,Level Season,Pai River,hzo,23274350.011027858
+L-P9,Level Season,Pai River,hzo,24028102.334266916
+W-H1,Wet Season,Hangbu River,hzo,40522687731.21208
+W-H10,Wet Season,Hangbu River,hzo,77780011845.3797
+W-H11,Wet Season,Hangbu River,hzo,75438623588.90555
+W-H12,Wet Season,Hangbu River,hzo,95601200318.64001
+W-H2,Wet Season,Hangbu River,hzo,61342636904.97995
+W-H3,Wet Season,Hangbu River,hzo,46316198867.65554
+W-H4,Wet Season,Hangbu River,hzo,33882042039.16337
+W-H5,Wet Season,Hangbu River,hzo,42972988045.1203
+W-H6,Wet Season,Hangbu River,hzo,63861798095.17413
+W-H7,Wet Season,Hangbu River,hzo,44184786537.01709
+W-H8,Wet Season,Hangbu River,hzo,79016534026.43527
+W-H9,Wet Season,Hangbu River,hzo,48900102708.93471
+W-N1,Wet Season,Nanfei River,hzo,25873819647.151585
+W-N10,Wet Season,Nanfei River,hzo,40530344109.72419
+W-N11,Wet Season,Nanfei River,hzo,27978434097.03448
+W-N12,Wet Season,Nanfei River,hzo,39783769890.97095
+W-N2,Wet Season,Nanfei River,hzo,63582209768.94328
+W-N3,Wet Season,Nanfei River,hzo,41108246276.7762
+W-N4,Wet Season,Nanfei River,hzo,33248195750.59473
+W-N5,Wet Season,Nanfei River,hzo,46417164363.15292
+W-N6,Wet Season,Nanfei River,hzo,28515904988.04058
+W-N7,Wet Season,Nanfei River,hzo,36629559587.442184
+W-N8,Wet Season,Nanfei River,hzo,56350902231.082756
+W-N9,Wet Season,Nanfei River,hzo,23164318770.444935
+W-P1,Wet Season,Pai River,hzo,22500719260.105247
+W-P10,Wet Season,Pai River,hzo,32378518207.854736
+W-P11,Wet Season,Pai River,hzo,49748542104.638885
+W-P12,Wet Season,Pai River,hzo,35943856555.91673
+W-P2,Wet Season,Pai River,hzo,51217684632.162544
+W-P3,Wet Season,Pai River,hzo,47643383132.755066
+W-P4,Wet Season,Pai River,hzo,34737244983.30024
+W-P5,Wet Season,Pai River,hzo,51480336878.688835
+W-P6,Wet Season,Pai River,hzo,37328854325.81785
+W-P7,Wet Season,Pai River,hzo,16403053441.458452
+W-P8,Wet Season,Pai River,hzo,31660929911.242474
+W-P9,Wet Season,Pai River,hzo,27170394875.790386
+D-H1,Dry Season,Hangbu River,hzsA,283275.74516136775
+D-H2,Dry Season,Hangbu River,hzsA,276488.1753288625
+D-H3,Dry Season,Hangbu River,hzsA,227434.89293242834
+D-H4,Dry Season,Hangbu River,hzsA,226207.21668717713
+D-H5,Dry Season,Hangbu River,hzsA,214704.1108015432
+D-N1,Dry Season,Nanfei River,hzsA,223488.02810643113
+D-N2,Dry Season,Nanfei River,hzsA,248186.37328618043
+D-N3,Dry Season,Nanfei River,hzsA,226517.04905457475
+D-N4,Dry Season,Nanfei River,hzsA,312684.9018159199
+D-N5,Dry Season,Nanfei River,hzsA,373522.5985907323
+D-N6,Dry Season,Nanfei River,hzsA,432397.08832273504
+D-P1,Dry Season,Pai River,hzsA,567154.210262129
+D-P2,Dry Season,Pai River,hzsA,485411.7177688809
+D-P3,Dry Season,Pai River,hzsA,797000.4731357847
+D-P4,Dry Season,Pai River,hzsA,539778.3849741463
+D-P5,Dry Season,Pai River,hzsA,461842.1089042014
+D-P6,Dry Season,Pai River,hzsA,624581.7917360286
+D-P7,Dry Season,Pai River,hzsA,433636.4601184516
+L-H1,Level Season,Hangbu River,hzsA,268857.63858234254
+L-H10,Level Season,Hangbu River,hzsA,347795.9974087288
+L-H11,Level Season,Hangbu River,hzsA,291381.3582075351
+L-H12,Level Season,Hangbu River,hzsA,481709.60819912446
+L-H2,Level Season,Hangbu River,hzsA,238984.74970794324
+L-H3,Level Season,Hangbu River,hzsA,252153.89237905268
+L-H4,Level Season,Hangbu River,hzsA,251973.295443019
+L-H5,Level Season,Hangbu River,hzsA,271755.5295838959
+L-H6,Level Season,Hangbu River,hzsA,327180.69063774095
+L-H7,Level Season,Hangbu River,hzsA,256589.65183763756
+L-H8,Level Season,Hangbu River,hzsA,425566.1782085031
+L-H9,Level Season,Hangbu River,hzsA,218525.25278237704
+L-N1,Level Season,Nanfei River,hzsA,236981.14101802558
+L-N10,Level Season,Nanfei River,hzsA,231922.9186332547
+L-N11,Level Season,Nanfei River,hzsA,261517.38235471828
+L-N12,Level Season,Nanfei River,hzsA,277017.0788931582
+L-N2,Level Season,Nanfei River,hzsA,202245.53274062535
+L-N3,Level Season,Nanfei River,hzsA,230972.32644387017
+L-N4,Level Season,Nanfei River,hzsA,326109.24958545767
+L-N5,Level Season,Nanfei River,hzsA,290109.31799577427
+L-N6,Level Season,Nanfei River,hzsA,347996.6769884609
+L-N7,Level Season,Nanfei River,hzsA,283173.4314285603
+L-N8,Level Season,Nanfei River,hzsA,156866.71571629497
+L-N9,Level Season,Nanfei River,hzsA,379282.10749676067
+L-P1,Level Season,Pai River,hzsA,414161.9246645623
+L-P10,Level Season,Pai River,hzsA,519913.2497255388
+L-P11,Level Season,Pai River,hzsA,654736.1214958649
+L-P12,Level Season,Pai River,hzsA,453319.28243031894
+L-P2,Level Season,Pai River,hzsA,430915.03916395764
+L-P3,Level Season,Pai River,hzsA,576381.2790431577
+L-P4,Level Season,Pai River,hzsA,508024.3671756725
+L-P5,Level Season,Pai River,hzsA,540463.1546180377
+L-P6,Level Season,Pai River,hzsA,508282.75297151465
+L-P7,Level Season,Pai River,hzsA,543846.1136142137
+L-P8,Level Season,Pai River,hzsA,523530.98556086357
+L-P9,Level Season,Pai River,hzsA,542345.1649768269
+W-H1,Wet Season,Hangbu River,hzsA,2036866133.9335213
+W-H10,Wet Season,Hangbu River,hzsA,4194149217.250023
+W-H11,Wet Season,Hangbu River,hzsA,4054518852.1858597
+W-H12,Wet Season,Hangbu River,hzsA,5271001536.45922
+W-H2,Wet Season,Hangbu River,hzsA,3224249621.1998587
+W-H3,Wet Season,Hangbu River,hzsA,2361839641.184683
+W-H4,Wet Season,Hangbu River,hzsA,1670546366.3259501
+W-H5,Wet Season,Hangbu River,hzsA,2173737711.904728
+W-H6,Wet Season,Hangbu River,hzsA,3371247942.740678
+W-H7,Wet Season,Hangbu River,hzsA,2241742221.4285274
+W-H8,Wet Season,Hangbu River,hzsA,4268073943.924196
+W-H9,Wet Season,Hangbu River,hzsA,2508231876.2279515
+W-N1,Wet Season,Nanfei River,hzsA,1239170226.246137
+W-N10,Wet Season,Nanfei River,hzsA,2037292452.197539
+W-N11,Wet Season,Nanfei River,hzsA,1351304850.9659266
+W-N12,Wet Season,Nanfei River,hzsA,1995763175.7042866
+W-N2,Wet Season,Nanfei River,hzsA,3354902078.675672
+W-N3,Wet Season,Nanfei River,hzsA,2069495825.7615912
+W-N4,Wet Season,Nanfei River,hzsA,1635962432.16727
+W-N5,Wet Season,Nanfei River,hzsA,2367543691.2079573
+W-N6,Wet Season,Nanfei River,hzsA,1380090329.71694
+W-N7,Wet Season,Nanfei River,hzsA,1821248922.4407494
+W-N8,Wet Season,Nanfei River,hzsA,2934913091.6151724
+W-N9,Wet Season,Nanfei River,hzsA,1096259884.6798396
+W-P1,Wet Season,Pai River,hzsA,1061525043.0362469
+W-P10,Wet Season,Pai River,hzsA,1588626808.7232654
+W-P11,Wet Season,Pai River,hzsA,2556484875.2249064
+W-P12,Wet Season,Pai River,hzsA,1783519959.2040274
+W-P2,Wet Season,Pai River,hzsA,2640248047.8826256
+W-P3,Wet Season,Pai River,hzsA,2436924939.566106
+W-P4,Wet Season,Pai River,hzsA,1717318353.0124812
+W-P5,Wet Season,Pai River,hzsA,2655250683.945335
+W-P6,Wet Season,Pai River,hzsA,1859804187.55976
+W-P7,Wet Season,Pai River,hzsA,747941232.2629956
+W-P8,Wet Season,Pai River,hzsA,1549672112.3407743
+W-P9,Wet Season,Pai River,hzsA,1308140810.8856719
+D-H1,Dry Season,Hangbu River,hzsB,262742.8347938264
+D-H2,Dry Season,Hangbu River,hzsB,121185.30733128542
+D-H3,Dry Season,Hangbu River,hzsB,121808.32567995982
+D-H4,Dry Season,Hangbu River,hzsB,158023.7939711504
+D-H5,Dry Season,Hangbu River,hzsB,149872.21414178974
+D-N1,Dry Season,Nanfei River,hzsB,98536.78050641477
+D-N2,Dry Season,Nanfei River,hzsB,280827.34131950577
+D-N3,Dry Season,Nanfei River,hzsB,109212.22707245295
+D-N4,Dry Season,Nanfei River,hzsB,137780.21851473217
+D-N5,Dry Season,Nanfei River,hzsB,281089.25237596483
+D-N6,Dry Season,Nanfei River,hzsB,310989.205411135
+D-P1,Dry Season,Pai River,hzsB,147203.76223273927
+D-P2,Dry Season,Pai River,hzsB,344639.41358542617
+D-P3,Dry Season,Pai River,hzsB,77468.31220273858
+D-P4,Dry Season,Pai River,hzsB,184994.00902844235
+D-P5,Dry Season,Pai River,hzsB,169014.63823754288
+D-P6,Dry Season,Pai River,hzsB,170294.88597141768
+D-P7,Dry Season,Pai River,hzsB,209341.18285614287
+L-H1,Level Season,Hangbu River,hzsB,145827.85890532
+L-H10,Level Season,Hangbu River,hzsB,181985.40121071925
+L-H11,Level Season,Hangbu River,hzsB,188843.54958281954
+L-H12,Level Season,Hangbu River,hzsB,822098.8027033131
+L-H2,Level Season,Hangbu River,hzsB,179337.8029659498
+L-H3,Level Season,Hangbu River,hzsB,188057.38376144608
+L-H4,Level Season,Hangbu River,hzsB,61307.00824265368
+L-H5,Level Season,Hangbu River,hzsB,116912.38496204867
+L-H6,Level Season,Hangbu River,hzsB,217102.45897817737
+L-H7,Level Season,Hangbu River,hzsB,145112.46345009017
+L-H8,Level Season,Hangbu River,hzsB,212565.6408688582
+L-H9,Level Season,Hangbu River,hzsB,157161.17936166146
+L-N1,Level Season,Nanfei River,hzsB,231190.51053481468
+L-N10,Level Season,Nanfei River,hzsB,167848.73208355682
+L-N11,Level Season,Nanfei River,hzsB,198926.98595637336
+L-N12,Level Season,Nanfei River,hzsB,176649.27408186352
+L-N2,Level Season,Nanfei River,hzsB,195792.74768475848
+L-N3,Level Season,Nanfei River,hzsB,435301.26600600703
+L-N4,Level Season,Nanfei River,hzsB,1436303.3394104177
+L-N5,Level Season,Nanfei River,hzsB,445050.6813149819
+L-N6,Level Season,Nanfei River,hzsB,854180.4249762241
+L-N7,Level Season,Nanfei River,hzsB,801603.1580173543
+L-N8,Level Season,Nanfei River,hzsB,509074.37025871355
+L-N9,Level Season,Nanfei River,hzsB,1137850.5906121023
+L-P1,Level Season,Pai River,hzsB,1142853.7718351872
+L-P10,Level Season,Pai River,hzsB,856095.8449903791
+L-P11,Level Season,Pai River,hzsB,1004135.2373828485
+L-P12,Level Season,Pai River,hzsB,870327.5434903885
+L-P2,Level Season,Pai River,hzsB,1175626.9876153045
+L-P3,Level Season,Pai River,hzsB,1093478.2796357789
+L-P4,Level Season,Pai River,hzsB,670827.936718639
+L-P5,Level Season,Pai River,hzsB,539626.2520320636
+L-P6,Level Season,Pai River,hzsB,719927.3552569371
+L-P7,Level Season,Pai River,hzsB,1182110.015107603
+L-P8,Level Season,Pai River,hzsB,804080.7624073203
+L-P9,Level Season,Pai River,hzsB,473354.53836972534
+W-H1,Wet Season,Hangbu River,hzsB,716688.7138643385
+W-H10,Wet Season,Hangbu River,hzsB,407677.6290196788
+W-H11,Wet Season,Hangbu River,hzsB,1129957.889634751
+W-H12,Wet Season,Hangbu River,hzsB,687779.0372933326
+W-H2,Wet Season,Hangbu River,hzsB,1189170.1913168624
+W-H3,Wet Season,Hangbu River,hzsB,671931.5403716993
+W-H4,Wet Season,Hangbu River,hzsB,808232.867249228
+W-H5,Wet Season,Hangbu River,hzsB,381392.09510668775
+W-H6,Wet Season,Hangbu River,hzsB,970903.4743782039
+W-H7,Wet Season,Hangbu River,hzsB,637761.0714978252
+W-H8,Wet Season,Hangbu River,hzsB,890234.3089483442
+W-H9,Wet Season,Hangbu River,hzsB,236708.86475705393
+W-N1,Wet Season,Nanfei River,hzsB,122880.58415847429
+W-N10,Wet Season,Nanfei River,hzsB,192221.08935542748
+W-N11,Wet Season,Nanfei River,hzsB,232931.19777068304
+W-N12,Wet Season,Nanfei River,hzsB,193990.3027077854
+W-N2,Wet Season,Nanfei River,hzsB,317541.2455697802
+W-N3,Wet Season,Nanfei River,hzsB,213452.26948805404
+W-N4,Wet Season,Nanfei River,hzsB,205010.05840409297
+W-N5,Wet Season,Nanfei River,hzsB,220908.78575053232
+W-N6,Wet Season,Nanfei River,hzsB,142807.58731597307
+W-N7,Wet Season,Nanfei River,hzsB,196187.36485698397
+W-N8,Wet Season,Nanfei River,hzsB,172235.57768611438
+W-N9,Wet Season,Nanfei River,hzsB,187202.18708213168
+W-P1,Wet Season,Pai River,hzsB,211642.87875745224
+W-P10,Wet Season,Pai River,hzsB,249870.9623478574
+W-P11,Wet Season,Pai River,hzsB,188383.05676656193
+W-P12,Wet Season,Pai River,hzsB,189502.98868536885
+W-P2,Wet Season,Pai River,hzsB,151064.79788085344
+W-P3,Wet Season,Pai River,hzsB,127203.86934935406
+W-P4,Wet Season,Pai River,hzsB,141279.84838768022
+W-P5,Wet Season,Pai River,hzsB,224311.33199183925
+W-P6,Wet Season,Pai River,hzsB,222009.70209130927
+W-P7,Wet Season,Pai River,hzsB,199400.812804383
+W-P8,Wet Season,Pai River,hzsB,241906.48563035674
+W-P9,Wet Season,Pai River,hzsB,159026.46367216582
+D-H1,Dry Season,Hangbu River,napA,6791924.027821751
+D-H2,Dry Season,Hangbu River,napA,3026025.10989538
+D-H3,Dry Season,Hangbu River,napA,3042280.049086275
+D-H4,Dry Season,Hangbu River,napA,3993037.6542079607
+D-H5,Dry Season,Hangbu River,napA,3778093.9222231386
+D-N1,Dry Season,Nanfei River,napA,2437811.5641026855
+D-N2,Dry Season,Nanfei River,napA,7281065.892581836
+D-N3,Dry Season,Nanfei River,napA,2714389.1315080295
+D-N4,Dry Season,Nanfei River,napA,3460219.221541575
+D-N5,Dry Season,Nanfei River,napA,7288160.535571029
+D-N6,Dry Season,Nanfei River,napA,8099972.530409044
+D-P1,Dry Season,Pai River,napA,3707843.48190719
+D-P2,Dry Season,Pai River,napA,9017784.865356764
+D-P3,Dry Season,Pai River,napA,1896054.0344214886
+D-P4,Dry Season,Pai River,napA,4707615.784111919
+D-P5,Dry Season,Pai River,napA,4283630.502808729
+D-P6,Dry Season,Pai River,napA,4317535.772352434
+D-P7,Dry Season,Pai River,napA,5356744.378366603
+L-H1,Level Season,Hangbu River,napA,3671643.247878656
+L-H10,Level Season,Hangbu River,napA,4627657.747831496
+L-H11,Level Season,Hangbu River,napA,4810007.579551206
+L-H12,Level Season,Hangbu River,napA,22364255.250250395
+L-H2,Level Season,Hangbu River,napA,4557342.939947949
+L-H3,Level Season,Hangbu River,napA,4789089.137478857
+L-H4,Level Season,Hangbu River,napA,1484873.9452509452
+L-H5,Level Season,Hangbu River,napA,2914643.634204205
+L-H6,Level Season,Hangbu River,napA,5564401.774071068
+L-H7,Level Season,Hangbu River,napA,3652827.109958811
+L-H8,Level Season,Hangbu River,napA,5442975.487926622
+L-H9,Level Season,Hangbu River,napA,3970267.9876014763
+L-N1,Level Season,Nanfei River,napA,5942177.66750419
+L-N10,Level Season,Nanfei River,napA,4252763.378335255
+L-N11,Level Season,Nanfei River,napA,5078649.761914946
+L-N12,Level Season,Nanfei River,napA,4485988.62294686
+L-N2,Level Season,Nanfei River,napA,4995080.849734158
+L-N3,Level Season,Nanfei River,napA,11509688.053028634
+L-N4,Level Season,Nanfei River,napA,40060866.349892974
+L-N5,Level Season,Nanfei River,napA,11779139.376387324
+L-N6,Level Season,Nanfei River,napA,23276840.079879116
+L-N7,Level Season,Nanfei River,napA,21782071.853633232
+L-N8,Level Season,Nanfei River,napA,13554934.317078661
+L-N9,Level Season,Nanfei River,napA,31407439.160938542
+L-P1,Level Season,Pai River,napA,31551733.159344178
+L-P10,Level Season,Pai River,napA,23331374.698962346
+L-P11,Level Season,Pai River,napA,27561948.792581223
+L-P12,Level Season,Pai River,napA,23736740.787927203
+L-P2,Level Season,Pai River,napA,32497621.23772375
+L-P3,Level Season,Pai River,napA,30128978.07648251
+L-P4,Level Season,Pai River,napA,18083797.180725545
+L-P5,Level Season,Pai River,napA,14405951.242860518
+L-P6,Level Season,Pai River,napA,19468834.823098265
+L-P7,Level Season,Pai River,napA,32684872.803647663
+L-P8,Level Season,Pai River,napA,21852413.707995538
+L-P9,Level Season,Pai River,napA,12562870.718542345
+W-H1,Wet Season,Hangbu River,napA,3575329891.690868
+W-H10,Wet Season,Hangbu River,napA,1762554986.3024454
+W-H11,Wet Season,Hangbu River,napA,6327208898.059234
+W-H12,Wet Season,Hangbu River,napA,3395454653.9835043
+W-H2,Wet Season,Hangbu River,napA,6745612973.226057
+W-H3,Wet Season,Hangbu River,napA,3297657914.521343
+W-H4,Wet Season,Hangbu River,napA,4156872114.44079
+W-H5,Wet Season,Hangbu River,napA,1621265385.4307246
+W-H6,Wet Season,Hangbu River,napA,5231312890.487603
+W-H7,Wet Season,Hangbu River,napA,3088787111.5524764
+W-H8,Wet Season,Hangbu River,napA,4692255848.490034
+W-H9,Wet Season,Hangbu River,napA,891541065.3779511
+W-N1,Wet Season,Nanfei River,napA,391898880.769398
+W-N10,Wet Season,Nanfei River,napA,686736357.3141211
+W-N11,Wet Season,Nanfei River,napA,873739415.4523848
+W-N12,Wet Season,Nanfei River,napA,694669917.5599686
+W-N2,Wet Season,Nanfei River,napA,1288532378.2208643
+W-N3,Wet Season,Nanfei River,napA,783128496.5551742
+W-N4,Wet Season,Nanfei River,napA,744493977.2877687
+W-N5,Wet Season,Nanfei River,napA,817576603.2731583
+W-N6,Wet Season,Nanfei River,napA,473151778.03309256
+W-N7,Wet Season,Nanfei River,napA,704547617.5127447
+W-N8,Wet Season,Nanfei River,napA,598433588.2709085
+W-N9,Wet Season,Nanfei River,napA,664331569.094695
+W-P1,Wet Season,Pai River,napA,774814887.2603391
+W-P10,Wet Season,Pai River,napA,954124109.479497
+W-P11,Wet Season,Pai River,napA,669589514.8107055
+W-P12,Wet Season,Pai River,napA,674583861.8323361
+W-P2,Wet Season,Pai River,napA,507698371.0271042
+W-P3,Wet Season,Pai River,napA,409261500.3702332
+W-P4,Wet Season,Pai River,napA,466814534.387279
+W-P5,Wet Season,Pai River,napA,833394811.1963416
+W-P6,Wet Season,Pai River,napA,822687972.2255875
+W-P7,Wet Season,Pai River,napA,719045403.3764373
+W-P8,Wet Season,Pai River,napA,916151890.9267746
+W-P9,Wet Season,Pai River,napA,541465689.8081553
+D-H1,Dry Season,Hangbu River,narG,20208.01682581418
+D-H2,Dry Season,Hangbu River,narG,7277.888687767515
+D-H3,Dry Season,Hangbu River,narG,7327.306136256516
+D-H4,Dry Season,Hangbu River,narG,10330.656210089088
+D-H5,Dry Season,Hangbu River,narG,9633.2657220185
+D-N1,Dry Season,Nanfei River,narG,1794488.3474198447
+D-N2,Dry Season,Nanfei River,narG,7147989.748802827
+D-N3,Dry Season,Nanfei River,narG,2055390.9499219146
+D-N4,Dry Season,Nanfei River,narG,2792996.897820556
+D-N5,Dry Season,Nanfei River,narG,7156788.685067729
+D-N6,Dry Season,Nanfei River,narG,8178119.208308274
+D-P1,Dry Season,Pai River,narG,9407.563054812737
+D-P2,Dry Season,Pai River,narG,28908.569747411973
+D-P3,Dry Season,Pai River,narG,4032.34798009767
+D-P4,Dry Season,Pai River,narG,12718.627509731698
+D-P5,Dry Season,Pai River,narG,11289.2451167559
+D-P6,Dry Season,Pai River,narG,11402.231714602
+D-P7,Dry Season,Pai River,narG,14972.797920725125
+L-H1,Level Season,Hangbu River,narG,9291.695159936526
+L-H10,Level Season,Hangbu River,narG,12446.369129455785
+L-H11,Level Season,Hangbu River,narG,13069.052073393568
+L-H12,Level Season,Hangbu River,narG,91050.56967369586
+L-H2,Level Season,Hangbu River,narG,12207.966312149543
+L-H3,Level Season,Hangbu River,narG,12997.29999712416
+L-H4,Level Season,Hangbu River,narG,2961.149773778539
+L-H5,Level Season,Hangbu River,narG,6941.1650597779535
+L-H6,Level Season,Hangbu River,narG,15709.6731097776
+L-H7,Level Season,Hangbu River,narG,9231.587859646452
+L-H8,Level Season,Hangbu River,narG,15277.894185880808
+L-H9,Level Season,Hangbu River,narG,10256.301188619955
+L-N1,Level Season,Nanfei River,narG,632805.4833845624
+L-N10,Level Season,Nanfei River,narG,414731.0718685118
+L-N11,Level Season,Nanfei River,narG,518951.28874905145
+L-N12,Level Season,Nanfei River,narG,443665.04446040373
+L-N2,Level Season,Nanfei River,narG,508188.2817593716
+L-N3,Level Season,Nanfei River,narG,1458625.484300294
+L-N4,Level Season,Nanfei River,narG,7049180.360456603
+L-N5,Level Season,Nanfei River,narG,1501891.2369878204
+L-N6,Level Season,Nanfei River,narG,3550520.684201976
+L-N7,Level Season,Nanfei River,narG,3264990.328646461
+L-N8,Level Season,Nanfei River,narG,1793371.906088917
+L-N9,Level Season,Nanfei River,narG,5183688.060135887
+L-P1,Level Season,Pai River,narG,140632.09593877193
+L-P10,Level Season,Pai River,narG,96052.09412608673
+L-P11,Level Season,Pai River,narG,118555.20642066923
+L-P12,Level Season,Pai River,narG,98164.88762817543
+L-P2,Level Season,Pai River,narG,145978.4030877296
+L-P3,Level Season,Pai River,narG,132669.8922664081
+L-P4,Level Season,Pai River,narG,69620.66860854573
+L-P5,Level Season,Pai River,narG,52240.20279818967
+L-P6,Level Season,Pai River,narG,76422.74434369398
+L-P7,Level Season,Pai River,narG,147041.68063919438
+L-P8,Level Season,Pai River,narG,88426.33821333291
+L-P9,Level Season,Pai River,narG,43944.71149695899
+W-H1,Wet Season,Hangbu River,narG,1185455.3738059725
+W-H10,Wet Season,Hangbu River,narG,962098.3320227446
+W-H11,Wet Season,Hangbu River,narG,745465.7648005327
+W-H12,Wet Season,Hangbu River,narG,1045150.694229693
+W-H2,Wet Season,Hangbu River,narG,696238.1115390352
+W-H3,Wet Season,Hangbu River,narG,1787324.2743559908
+W-H4,Wet Season,Hangbu River,narG,189639.86840828863
+W-H5,Wet Season,Hangbu River,narG,231423.59239442635
+W-H6,Wet Season,Hangbu River,narG,201346.76772960307
+W-H7,Wet Season,Hangbu River,narG,1796539.817181772
+W-H8,Wet Season,Hangbu River,narG,1857076.7364327102
+W-H9,Wet Season,Hangbu River,narG,1705901.4209625246
+W-N1,Wet Season,Nanfei River,narG,3765748.8026218466
+W-N10,Wet Season,Nanfei River,narG,7879720.660678872
+W-N11,Wet Season,Nanfei River,narG,7087979.632531032
+W-N12,Wet Season,Nanfei River,narG,7150954.497046274
+W-N2,Wet Season,Nanfei River,narG,12853008.572821286
+W-N3,Wet Season,Nanfei River,narG,4248306.235199145
+W-N4,Wet Season,Nanfei River,narG,5578360.854172873
+W-N5,Wet Season,Nanfei River,narG,12867060.849902686
+W-N6,Wet Season,Nanfei River,narG,14485687.589647071
+W-N7,Wet Season,Nanfei River,narG,6028171.445431122
+W-N8,Wet Season,Nanfei River,narG,16339589.56697807
+W-N9,Wet Season,Nanfei River,narG,2840463.2425608113
+W-P1,Wet Season,Pai River,narG,245688.13082863117
+W-P10,Wet Season,Pai River,narG,2348452.100505685
+W-P11,Wet Season,Pai River,narG,594751.9137085818
+W-P12,Wet Season,Pai River,narG,1277102.5104929733
+W-P2,Wet Season,Pai River,narG,320663.8476169994
+W-P3,Wet Season,Pai River,narG,129450.64605700153
+W-P4,Wet Season,Pai River,narG,130231.08669345368
+W-P5,Wet Season,Pai River,narG,176694.8248580351
+W-P6,Wet Season,Pai River,narG,166058.91690299206
+W-P7,Wet Season,Pai River,narG,276008.7848963236
+W-P8,Wet Season,Pai River,narG,227155.37558047974
+W-P9,Wet Season,Pai River,narG,579508.8336186045
+D-H1,Dry Season,Hangbu River,nifH,3708.418988464849
+D-H2,Dry Season,Hangbu River,nifH,3590.0888200686495
+D-H3,Dry Season,Hangbu River,nifH,2764.978862064434
+D-H4,Dry Season,Hangbu River,nifH,2745.0404044789666
+D-H5,Dry Season,Hangbu River,nifH,2560.0094355495917
+D-N1,Dry Season,Nanfei River,nifH,2701.008533778944
+D-N2,Dry Season,Nanfei River,nifH,3107.3940913796814
+D-N3,Dry Season,Nanfei River,nifH,2750.06890030508
+D-N4,Dry Season,Nanfei River,nifH,4232.020010504831
+D-N5,Dry Season,Nanfei River,nifH,5367.676289979756
+D-N6,Dry Season,Nanfei River,nifH,6528.015895777202
+D-P1,Dry Season,Pai River,nifH,9382.486428482574
+D-P2,Dry Season,Pai River,nifH,7619.75726075268
+D-P3,Dry Season,Pai River,nifH,14787.222154546202
+D-P4,Dry Season,Pai River,nifH,8781.913072176692
+D-P5,Dry Season,Pai River,nifH,7129.1390538025635
+D-P6,Dry Season,Pai River,nifH,10674.000722519399
+D-P7,Dry Season,Pai River,nifH,6553.0468931240885
+L-H1,Level Season,Hangbu River,nifH,134173.58329639983
+L-H10,Level Season,Hangbu River,nifH,189303.83379410833
+L-H11,Level Season,Hangbu River,nifH,149411.83195462523
+L-H12,Level Season,Hangbu River,nifH,292623.1389326445
+L-H2,Level Season,Hangbu River,nifH,114622.7065222368
+L-H3,Level Season,Hangbu River,nifH,123145.7429581174
+L-H4,Level Season,Hangbu River,nifH,123027.82523657726
+L-H5,Level Season,Hangbu River,nifH,136110.816249904
+L-H6,Level Season,Hangbu River,nifH,174452.2214700864
+L-H7,Level Season,Hangbu River,nifH,126050.91170716513
+L-H8,Level Season,Hangbu River,nifH,247940.53891267817
+L-H9,Level Season,Hangbu River,nifH,101694.84295344478
+L-N1,Level Season,Nanfei River,nifH,113339.58790522814
+L-N10,Level Season,Nanfei River,nifH,110116.57720102536
+L-N11,Level Season,Nanfei River,nifH,129298.19553449603
+L-N12,Level Season,Nanfei River,nifH,139645.948107118
+L-N2,Level Season,Nanfei River,nifH,91694.12780459266
+L-N3,Level Season,Nanfei River,nifH,109513.50173927915
+L-N4,Level Season,Nanfei River,nifH,173688.76223947693
+L-N5,Level Season,Nanfei River,nifH,148540.32075751596
+L-N6,Level Season,Nanfei River,nifH,189449.90029785564
+L-N7,Level Season,Nanfei River,nifH,143811.0918559267
+L-N8,Level Season,Nanfei River,nifH,65281.99020585656
+L-N9,Level Season,Nanfei River,nifH,212561.9092908935
+L-P1,Level Season,Pai River,nifH,239096.75506459488
+L-P10,Level Season,Pai River,nifH,324062.00091938657
+L-P11,Level Season,Pai River,nifH,441083.3563151469
+L-P12,Level Season,Pai River,nifH,269795.11332840304
+L-P2,Level Season,Pai River,nifH,252116.2170857551
+L-P3,Level Season,Pai River,nifH,371965.58058850333
+L-P4,Level Season,Pai River,nifH,314191.9084441143
+L-P5,Level Season,Pai River,nifH,341301.9084471592
+L-P6,Level Season,Pai River,nifH,314405.5993259335
+L-P7,Level Season,Pai River,nifH,344161.4432373022
+L-P8,Level Season,Pai River,nifH,327080.64019133704
+L-P9,Level Season,Pai River,nifH,342891.98418409994
+W-H1,Wet Season,Hangbu River,nifH,13718215.45541234
+W-H10,Wet Season,Hangbu River,nifH,36035096.86533296
+W-H11,Wet Season,Hangbu River,nifH,34440069.260198854
+W-H12,Wet Season,Hangbu River,nifH,48914021.49449106
+W-H2,Wet Season,Hangbu River,nifH,25351684.232526347
+W-H3,Wet Season,Hangbu River,nifH,16720834.91017726
+W-H4,Wet Season,Hangbu River,nifH,10523658.31176443
+W-H5,Wet Season,Hangbu River,nifH,14964560.533790769
+W-H6,Wet Season,Hangbu River,nifH,26908908.803015575
+W-H7,Wet Season,Hangbu River,nifH,15593823.03435015
+W-H8,Wet Season,Hangbu River,nifH,36886869.45744315
+W-H9,Wet Season,Hangbu River,nifH,18120899.756673776
+W-N1,Wet Season,Nanfei River,nifH,7058396.873325034
+W-N10,Wet Season,Nanfei River,nifH,13722054.818544215
+W-N11,Wet Season,Nanfei River,nifH,7925223.177100625
+W-N12,Wet Season,Nanfei River,nifH,13349330.83073505
+W-N2,Wet Season,Nanfei River,nifH,26734597.102920983
+W-N3,Wet Season,Nanfei River,nifH,14012850.127048463
+W-N4,Wet Season,Nanfei River,nifH,10233372.200476972
+W-N5,Wet Season,Nanfei River,nifH,16774852.650532937
+W-N6,Wet Season,Nanfei River,nifH,8151765.676446158
+W-N7,Wet Season,Nanfei River,nifH,11811986.828415168
+W-N8,Wet Season,Nanfei River,nifH,22356707.842488937
+W-N9,Wet Season,Nanfei River,nifH,5991674.72824184
+W-P1,Wet Season,Pai River,nifH,5739194.9843267165
+W-P10,Wet Season,Pai River,nifH,9839400.344835272
+W-P11,Wet Season,Pai River,nifH,18588532.800882734
+W-P12,Wet Season,Pai River,nifH,11485946.676395182
+W-P2,Wet Season,Pai River,nifH,19407371.98770975
+W-P3,Wet Season,Pai River,nifH,17435390.767879445
+W-P4,Wet Season,Pai River,nifH,10919475.821216319
+W-P5,Wet Season,Pai River,nifH,19554967.671660785
+W-P6,Wet Season,Pai River,nifH,12147528.036147064
+W-P7,Wet Season,Pai River,nifH,3593565.620376067
+W-P8,Wet Season,Pai River,nifH,9518132.898905076
+W-P9,Wet Season,Pai River,nifH,7588566.258138847
+D-H1,Dry Season,Hangbu River,nirK,143644.0474364137
+D-H2,Dry Season,Hangbu River,nirK,139849.23529302262
+D-H3,Dry Season,Hangbu River,nirK,112726.25096769936
+D-H4,Dry Season,Hangbu River,nirK,112054.70981300923
+D-H5,Dry Season,Hangbu River,nirK,105781.143645981
+D-N1,Dry Season,Nanfei River,nirK,110568.65982844122
+D-N2,Dry Season,Nanfei River,nirK,124132.96766360196
+D-N3,Dry Season,Nanfei River,nirK,112224.15311763619
+D-N4,Dry Season,Nanfei River,nirK,160193.0365211317
+D-N5,Dry Season,Nanfei River,nirK,194929.8237100999
+D-N6,Dry Season,Nanfei River,nirK,229113.55112432328
+D-P1,Dry Season,Pai River,nirK,309110.97642442846
+D-P2,Dry Season,Pai River,nirK,260314.63228355147
+D-P3,Dry Season,Pai River,nirK,450016.8313447483
+D-P4,Dry Season,Pai River,nirK,292681.77506746206
+D-P5,Dry Season,Pai River,nirK,246396.851448325
+D-P6,Dry Season,Pai River,nirK,343839.8104637962
+D-P7,Dry Season,Pai River,nirK,229838.61684328338
+L-H1,Level Season,Hangbu River,nirK,135594.692073161
+L-H10,Level Season,Hangbu River,nirK,180162.68949952626
+L-H11,Level Season,Hangbu River,nirK,148188.1366425724
+L-H12,Level Season,Hangbu River,nirK,258123.80654278953
+L-H2,Level Season,Hangbu River,nirK,119062.24915460871
+L-H3,Level Season,Hangbu River,nirK,126325.41896672847
+L-H4,Level Season,Hangbu River,nirK,126225.54269114338
+L-H5,Level Season,Hangbu River,nirK,137209.004427164
+L-H6,Level Season,Hangbu River,nirK,168410.77464622294
+L-H7,Level Season,Hangbu River,nirK,128780.86637965217
+L-H8,Level Season,Hangbu River,nirK,225121.179490147
+L-H9,Level Season,Hangbu River,nirK,107861.33484210788
+L-N1,Level Season,Nanfei River,nirK,117960.78631815645
+L-N10,Level Season,Nanfei River,nirK,115184.40235586879
+L-N11,Level Season,Nanfei River,nirK,131513.82290765565
+L-N12,Level Season,Nanfei River,nirK,140144.5911805844
+L-N2,Level Season,Nanfei River,nirK,99025.85018574858
+L-N3,Level Season,Nanfei River,nirK,114663.3345129364
+L-N4,Level Season,Nanfei River,nirK,167802.0517506941
+L-N5,Level Season,Nanfei River,nirK,147474.1386661746
+L-N6,Level Season,Nanfei River,nirK,180277.4513421067
+L-N7,Level Season,Nanfei River,nirK,143586.77490696323
+L-N8,Level Season,Nanfei River,nirK,74805.1685419792
+L-N9,Level Season,Nanfei River,nirK,198250.57202850265
+L-P1,Level Season,Pai River,nirK,218470.7632063911
+L-P10,Level Season,Pai River,nirK,280813.87651772
+L-P11,Level Season,Pai River,nirK,362210.7878214046
+L-P12,Level Season,Pai River,nirK,241382.10405375386
+L-P2,Level Season,Pai River,nirK,228246.79722716805
+L-P3,Level Season,Pai River,nirK,314667.26910356473
+L-P4,Level Season,Pai River,nirK,273733.5777310191
+L-P5,Level Season,Pai River,nirK,293091.6922551705
+L-P6,Level Season,Pai River,nirK,273887.27475153626
+L-P7,Level Season,Pai River,nirK,295117.59290124517
+L-P8,Level Season,Pai River,nirK,282971.7401142095
+L-P9,Level Season,Pai River,nirK,294218.581131958
+W-H1,Wet Season,Hangbu River,nirK,28481031.852672286
+W-H10,Wet Season,Hangbu River,nirK,68464804.39712478
+W-H11,Wet Season,Hangbu River,nirK,65706939.86711223
+W-H12,Wet Season,Hangbu River,nirK,90362532.39861421
+W-H2,Wet Season,Hangbu River,nirK,49747675.56928419
+W-H3,Wet Season,Hangbu River,nirK,34089627.065127015
+W-H4,Wet Season,Hangbu River,nirK,22387077.38281155
+W-H5,Wet Season,Hangbu River,nirK,30821512.843764234
+W-H6,Wet Season,Hangbu River,nirK,52515152.34121729
+W-H7,Wet Season,Hangbu River,nirK,31996307.29662599
+W-H8,Wet Season,Hangbu River,nirK,69932934.47313261
+W-H9,Wet Season,Hangbu River,nirK,36672215.89037812
+W-N1,Wet Season,Nanfei River,nirK,15576352.583046332
+W-N10,Wet Season,Nanfei River,nirK,28488270.715171143
+W-N11,Wet Season,Nanfei River,nirK,17304203.28326618
+W-N12,Wet Season,Nanfei River,nirK,27784635.320434865
+W-N2,Wet Season,Nanfei River,nirK,52206114.633688286
+W-N3,Wet Season,Nanfei River,nirK,29036019.797076765
+W-N4,Wet Season,Nanfei River,nirK,21825539.638571944
+W-N5,Wet Season,Nanfei River,nirK,34189627.82423951
+W-N6,Wet Season,Nanfei River,nirK,17752837.152615175
+W-N7,Wet Season,Nanfei River,nirK,24862667.919646855
+W-N8,Wet Season,Nanfei River,nirK,44380040.5923803
+W-N9,Wet Season,Nanfei River,nirK,13422778.018888902
+W-P1,Wet Season,Pai River,nirK,12908094.654410385
+W-P10,Wet Season,Pai River,nirK,21061077.139741216
+W-P11,Wet Season,Pai River,nirK,37530674.21047389
+W-P12,Wet Season,Pai River,nirK,24238619.471916202
+W-P2,Wet Season,Pai River,nirK,39029120.28582212
+W-P3,Wet Season,Pai River,nirK,35410092.96340727
+W-P4,Wet Season,Pai River,nirK,23150476.83255517
+W-P5,Wet Season,Pai River,nirK,39298590.72624998
+W-P6,Wet Season,Pai River,nirK,25503252.399541743
+W-P7,Wet Season,Pai River,nirK,8437393.014012396
+W-P8,Wet Season,Pai River,nirK,20435610.90012686
+W-P9,Wet Season,Pai River,nirK,16635314.360079782
+D-H1,Dry Season,Hangbu River,nirS,75561925.57469048
+D-H2,Dry Season,Hangbu River,nirS,160980011.14991036
+D-H3,Dry Season,Hangbu River,nirS,498368032.50301623
+D-H4,Dry Season,Hangbu River,nirS,164390966.84429917
+D-H5,Dry Season,Hangbu River,nirS,304721103.241865
+D-N1,Dry Season,Nanfei River,nirS,258078883.11597294
+D-N2,Dry Season,Nanfei River,nirS,416798111.5005281
+D-N3,Dry Season,Nanfei River,nirS,242796275.56816605
+D-N4,Dry Season,Nanfei River,nirS,289182078.63220775
+D-N5,Dry Season,Nanfei River,nirS,142042729.34725967
+D-N6,Dry Season,Nanfei River,nirS,344000703.28353685
+D-P1,Dry Season,Pai River,nirS,231092094.497194
+D-P2,Dry Season,Pai River,nirS,316882842.2356955
+D-P3,Dry Season,Pai River,nirS,90431767.83137754
+D-P4,Dry Season,Pai River,nirS,151293040.1314564
+D-P5,Dry Season,Pai River,nirS,397125861.44896144
+D-P6,Dry Season,Pai River,nirS,248213534.46435988
+D-P7,Dry Season,Pai River,nirS,88434843.26843417
+L-H1,Level Season,Hangbu River,nirS,57681771.634598486
+L-H10,Level Season,Hangbu River,nirS,48215555.732894875
+L-H11,Level Season,Hangbu River,nirS,61687575.70455625
+L-H12,Level Season,Hangbu River,nirS,58671106.62831321
+L-H2,Level Season,Hangbu River,nirS,129051062.18500386
+L-H3,Level Season,Hangbu River,nirS,31414298.049059685
+L-H4,Level Season,Hangbu River,nirS,71610950.83651038
+L-H5,Level Season,Hangbu River,nirS,65741647.85349091
+L-H6,Level Season,Hangbu River,nirS,66212946.15350984
+L-H7,Level Season,Hangbu River,nirS,80502582.23639125
+L-H8,Level Season,Hangbu River,nirS,99820133.3461161
+L-H9,Level Season,Hangbu River,nirS,47982078.996161066
+L-N1,Level Season,Nanfei River,nirS,38009411.75276486
+L-N10,Level Season,Nanfei River,nirS,32112353.91403591
+L-N11,Level Season,Nanfei River,nirS,26133643.321383048
+L-N12,Level Season,Nanfei River,nirS,34333014.98562342
+L-N2,Level Season,Nanfei River,nirS,24730870.6775226
+L-N3,Level Season,Nanfei River,nirS,52953621.13085709
+L-N4,Level Season,Nanfei River,nirS,8651685.371746354
+L-N5,Level Season,Nanfei River,nirS,10161031.783839947
+L-N6,Level Season,Nanfei River,nirS,9080498.35637205
+L-N7,Level Season,Nanfei River,nirS,53174004.56186968
+L-N8,Level Season,Nanfei River,nirS,54616357.948712096
+L-N9,Level Season,Nanfei River,nirS,50996787.99067949
+L-P1,Level Season,Pai River,nirS,54901420.66728584
+L-P10,Level Season,Pai River,nirS,7177055.746441255
+L-P11,Level Season,Pai River,nirS,14095240.641548716
+L-P12,Level Season,Pai River,nirS,15510646.169463944
+L-P2,Level Season,Pai River,nirS,38120610.802650705
+L-P3,Level Season,Pai River,nirS,23085081.678028777
+L-P4,Level Season,Pai River,nirS,40451000.83077503
+L-P5,Level Season,Pai River,nirS,47043658.62673957
+L-P6,Level Season,Pai River,nirS,41087276.26390759
+L-P7,Level Season,Pai River,nirS,5225527.353544532
+L-P8,Level Season,Pai River,nirS,14082807.923911018
+L-P9,Level Season,Pai River,nirS,5759942.368496053
+W-H1,Wet Season,Hangbu River,nirS,81340206.5446104
+W-H10,Wet Season,Hangbu River,nirS,95184813.25042471
+W-H11,Wet Season,Hangbu River,nirS,72852207.43809907
+W-H12,Wet Season,Hangbu River,nirS,73262125.35206018
+W-H2,Wet Season,Hangbu River,nirS,59112954.96042993
+W-H3,Wet Season,Hangbu River,nirS,50234910.457432136
+W-H4,Wet Season,Hangbu River,nirS,55482015.26510575
+W-H5,Wet Season,Hangbu River,nirS,85941904.4123127
+W-H6,Wet Season,Hangbu River,nirS,85106913.41702802
+W-H7,Wet Season,Hangbu River,nirS,76879398.35896409
+W-H8,Wet Season,Hangbu River,nirS,92310356.05486707
+W-H9,Wet Season,Hangbu River,nirS,62058028.51230945
+W-N1,Wet Season,Nanfei River,nirS,57171279.002142064
+W-N10,Wet Season,Nanfei River,nirS,70508015.34855223
+W-N11,Wet Season,Nanfei River,nirS,73020772.90204602
+W-N12,Wet Season,Nanfei River,nirS,293876255.8773354
+W-N2,Wet Season,Nanfei River,nirS,69536618.49923594
+W-N3,Wet Season,Nanfei River,nirS,72732980.09426296
+W-N4,Wet Season,Nanfei River,nirS,25173180.84789964
+W-N5,Wet Season,Nanfei River,nirS,46379051.4845846
+W-N6,Wet Season,Nanfei River,nirS,83325101.6961464
+W-N7,Wet Season,Nanfei River,nirS,56905748.920701474
+W-N8,Wet Season,Nanfei River,nirS,81675877.73947802
+W-N9,Wet Season,Nanfei River,nirS,61368768.14991582
+W-P1,Wet Season,Pai River,nirS,48617236.58166162
+W-P10,Wet Season,Pai River,nirS,74256469.4288372
+W-P11,Wet Season,Pai River,nirS,89065016.9600316
+W-P12,Wet Season,Pai River,nirS,74903284.72484685
+W-P2,Wet Season,Pai River,nirS,119425048.77559173
+W-P3,Wet Season,Pai River,nirS,81998331.45309241
+W-P4,Wet Season,Pai River,nirS,78925078.07348853
+W-P5,Wet Season,Pai River,nirS,84707357.13341975
+W-P6,Wet Season,Pai River,nirS,56049781.32837128
+W-P7,Wet Season,Pai River,nirS,75706081.40960316
+W-P8,Wet Season,Pai River,nirS,66927013.926874734
+W-P9,Wet Season,Pai River,nirS,72419844.11174807
+D-H1,Dry Season,Hangbu River,nosZ,1101283.219827921
+D-H2,Dry Season,Hangbu River,nosZ,422634.0472578241
+D-H3,Dry Season,Hangbu River,nosZ,887194.1745739471
+D-H4,Dry Season,Hangbu River,nosZ,346848.6602509361
+D-H5,Dry Season,Hangbu River,nosZ,838278.1193811101
+D-N1,Dry Season,Nanfei River,nosZ,342743.24726175604
+D-N2,Dry Season,Nanfei River,nosZ,966838.9428376394
+D-N3,Dry Season,Nanfei River,nosZ,347316.39459791203
+D-N4,Dry Season,Nanfei River,nosZ,1213764.2253928236
+D-N5,Dry Season,Nanfei River,nosZ,568313.6707745653
+D-N6,Dry Season,Nanfei River,nosZ,1670079.0273473891
+D-P1,Dry Season,Pai River,nosZ,857378.0248345459
+D-P2,Dry Season,Pai River,nosZ,1871497.0822728134
+D-P3,Dry Season,Pai River,nosZ,1198529.7878031489
+D-P4,Dry Season,Pai River,nosZ,2077699.1422580844
+D-P5,Dry Season,Pai River,nosZ,700393.0299247643
+D-P6,Dry Season,Pai River,nosZ,2398712.4370624563
+D-P7,Dry Season,Pai River,nosZ,658258.6196679487
+L-H1,Level Season,Hangbu River,nosZ,411147.7543855229
+L-H10,Level Season,Hangbu River,nosZ,1347840.6112910996
+L-H11,Level Season,Hangbu River,nosZ,445038.87184603984
+L-H12,Level Season,Hangbu River,nosZ,1857443.1680383217
+L-H2,Level Season,Hangbu River,nosZ,931536.072446248
+L-H3,Level Season,Hangbu River,nosZ,385985.72541257966
+L-H4,Level Season,Hangbu River,nosZ,981361.9045519251
+L-H5,Level Season,Hangbu River,nosZ,415510.55222015834
+L-H6,Level Season,Hangbu River,nosZ,1269145.0899556517
+L-H7,Level Season,Hangbu River,nosZ,392670.06385731226
+L-H8,Level Season,Hangbu River,nosZ,1644099.6001677015
+L-H9,Level Season,Hangbu River,nosZ,335248.4868369172
+L-N1,Level Season,Nanfei River,nosZ,363107.6597108348
+L-N10,Level Season,Nanfei River,nosZ,904428.516608912
+L-N11,Level Season,Nanfei River,nosZ,400093.67371333786
+L-N12,Level Season,Nanfei River,nosZ,1077323.0693409878
+L-N2,Level Season,Nanfei River,nosZ,790364.5911827371
+L-N3,Level Season,Nanfei River,nosZ,354041.15998064366
+L-N4,Level Season,Nanfei River,nosZ,1265052.988600955
+L-N5,Level Season,Nanfei River,nosZ,443125.95901865506
+L-N6,Level Season,Nanfei River,nosZ,1348606.3113989378
+L-N7,Level Season,Nanfei River,nosZ,432693.37747784005
+L-N8,Level Season,Nanfei River,nosZ,615435.8463178539
+L-N9,Level Season,Nanfei River,nosZ,576940.45137564
+L-P1,Level Season,Pai River,nosZ,629142.4508136822
+L-P10,Level Season,Pai River,nosZ,2002393.5702540765
+L-P11,Level Season,Pai River,nosZ,987585.618511035
+L-P12,Level Season,Pai River,nosZ,1749611.659687127
+L-P2,Level Season,Pai River,nosZ,1664443.015799711
+L-P3,Level Season,Pai River,nosZ,871109.7216350712
+L-P4,Level Season,Pai River,nosZ,1957303.5593208605
+L-P5,Level Season,Pai River,nosZ,817636.8465991896
+L-P6,Level Season,Pai River,nosZ,1958283.6902056348
+L-P7,Level Season,Pai River,nosZ,822675.4904205363
+L-P8,Level Season,Pai River,nosZ,2016111.0914070257
+L-P9,Level Season,Pai River,nosZ,820440.008708678
+W-H1,Wet Season,Hangbu River,nosZ,164762396.8453456
+W-H10,Wet Season,Hangbu River,nosZ,853613928.8794285
+W-H11,Wet Season,Hangbu River,nosZ,324503679.6019831
+W-H12,Wet Season,Hangbu River,nosZ,1069002313.9290726
+W-H2,Wet Season,Hangbu River,nosZ,658884689.5091026
+W-H3,Wet Season,Hangbu River,nosZ,190613478.65162638
+W-H4,Wet Season,Hangbu River,nosZ,344863828.27679485
+W-H5,Wet Season,Hangbu River,nosZ,175657517.3395106
+W-H6,Wet Season,Hangbu River,nosZ,688450248.020851
+W-H7,Wet Season,Hangbu River,nosZ,181066766.98990664
+W-H8,Wet Season,Hangbu River,nosZ,868425192.3122605
+W-H9,Wet Season,Hangbu River,nosZ,202240304.05655214
+W-N1,Wet Season,Nanfei River,nosZ,101008606.49854687
+W-N10,Wet Season,Nanfei River,nosZ,419287480.84502447
+W-N11,Wet Season,Nanfei River,nosZ,110001844.69212665
+W-N12,Wet Season,Nanfei River,nosZ,410871103.7191149
+W-N2,Wet Season,Nanfei River,nosZ,685163627.7480961
+W-N3,Wet Season,Nanfei River,nosZ,167360752.96379906
+W-N4,Wet Season,Nanfei River,nosZ,337833479.2034643
+W-N5,Wet Season,Nanfei River,nosZ,191066712.08339033
+W-N6,Wet Season,Nanfei River,nosZ,285744013.47771955
+W-N7,Wet Season,Nanfei River,nosZ,147575769.19820386
+W-N8,Wet Season,Nanfei River,nosZ,600629073.2670372
+W-N9,Wet Season,Nanfei River,nosZ,89528735.56738545
+W-P1,Wet Season,Pai River,nosZ,86735129.86640526
+W-P10,Wet Season,Pai River,nosZ,328207189.9765544
+W-P11,Wet Season,Pai River,nosZ,206070348.04714113
+W-P12,Wet Season,Pai River,nosZ,367814099.54398686
+W-P2,Wet Season,Pai River,nosZ,541209204.4261236
+W-P3,Wet Season,Pai River,nosZ,196578282.41925633
+W-P4,Wet Season,Pai River,nosZ,354368244.43729526
+W-P5,Wet Season,Pai River,nosZ,213906350.10173318
+W-P6,Wet Season,Pai River,nosZ,383298246.7552091
+W-P7,Wet Season,Pai River,nosZ,61444025.49122769
+W-P8,Wet Season,Pai River,nosZ,320281950.24150103
+W-P9,Wet Season,Pai River,nosZ,106541491.26371783
+D-H1,Dry Season,Hangbu River,nxrA,508998345.06806934
+D-H2,Dry Season,Hangbu River,nxrA,432811579.1856637
+D-H3,Dry Season,Hangbu River,nxrA,725525830.7709198
+D-H4,Dry Season,Hangbu River,nxrA,483428430.1187527
+D-H5,Dry Season,Hangbu River,nxrA,410939747.2190758
+D-N1,Dry Season,Nanfei River,nxrA,192910491.50295737
+D-N2,Dry Season,Nanfei River,nxrA,215170771.95361614
+D-N3,Dry Season,Nanfei River,nxrA,195635191.73226705
+D-N4,Dry Season,Nanfei River,nxrA,273720881.1211699
+D-N5,Dry Season,Nanfei River,nxrA,329417567.46490353
+D-N6,Dry Season,Nanfei River,nxrA,383681540.4322117
+D-P1,Dry Season,Pai River,nxrA,246954230.90541792
+D-P2,Dry Season,Pai River,nxrA,240792617.83082318
+D-P3,Dry Season,Pai River,nxrA,196461122.88050845
+D-P4,Dry Season,Pai River,nxrA,316745116.1929883
+D-P5,Dry Season,Pai River,nxrA,481944644.95894665
+D-P6,Dry Season,Pai River,nxrA,277167796.83755577
+D-P7,Dry Season,Pai River,nxrA,185017883.46785253
+L-H1,Level Season,Hangbu River,nxrA,366839227.2633437
+L-H10,Level Season,Hangbu River,nxrA,464907522.37673026
+L-H11,Level Season,Hangbu River,nxrA,591138939.754083
+L-H12,Level Season,Hangbu River,nxrA,403042204.99238217
+L-H2,Level Season,Hangbu River,nxrA,382311568.4506419
+L-H3,Level Season,Hangbu River,nxrA,517628492.3902605
+L-H4,Level Season,Hangbu River,nxrA,453837212.24653536
+L-H5,Level Season,Hangbu River,nxrA,484067376.8906064
+L-H6,Level Season,Hangbu River,nxrA,454077693.66122246
+L-H7,Level Season,Hangbu River,nxrA,487224455.5112694
+L-H8,Level Season,Hangbu River,nxrA,468278283.3801815
+L-H9,Level Season,Hangbu River,nxrA,485823623.80416286
+L-N1,Level Season,Nanfei River,nxrA,205059580.90754098
+L-N10,Level Season,Nanfei River,nxrA,200501717.20780805
+L-N11,Level Season,Nanfei River,nxrA,227225018.21642202
+L-N12,Level Season,Nanfei River,nxrA,241272520.14681196
+L-N2,Level Season,Nanfei River,nxrA,173846760.0526325
+L-N3,Level Season,Nanfei River,nxrA,199645619.11057678
+L-N4,Level Season,Nanfei River,nxrA,285974687.55395544
+L-N5,Level Season,Nanfei River,nxrA,253163844.11206013
+L-N6,Level Season,Nanfei River,nxrA,305998554.59764993
+L-N7,Level Season,Nanfei River,nxrA,246861305.6648036
+L-N8,Level Season,Nanfei River,nxrA,133414736.34868523
+L-N9,Level Season,Nanfei River,nxrA,334711116.3121834
+L-P1,Level Season,Pai River,nxrA,83944477.85318063
+L-P10,Level Season,Pai River,nxrA,236307448.50663215
+L-P11,Level Season,Pai River,nxrA,633814844.7520839
+L-P12,Level Season,Pai River,nxrA,952714056.1116551
+L-P2,Level Season,Pai River,nxrA,284638877.2860485
+L-P3,Level Season,Pai River,nxrA,311801044.48958427
+L-P4,Level Season,Pai River,nxrA,120422786.9906184
+L-P5,Level Season,Pai River,nxrA,202472176.13934556
+L-P6,Level Season,Pai River,nxrA,280436259.41422755
+L-P7,Level Season,Pai River,nxrA,284727868.02846247
+L-P8,Level Season,Pai River,nxrA,289236036.82953334
+L-P9,Level Season,Pai River,nxrA,282198128.68467224
+W-H1,Wet Season,Hangbu River,nxrA,1561035802.6024187
+W-H10,Wet Season,Hangbu River,nxrA,1212911889.765108
+W-H11,Wet Season,Hangbu River,nxrA,1394213558.1088915
+W-H12,Wet Season,Hangbu River,nxrA,1230504118.902745
+W-H2,Wet Season,Hangbu River,nxrA,1600063433.673458
+W-H3,Wet Season,Hangbu River,nxrA,1501967960.7889152
+W-H4,Wet Season,Hangbu River,nxrA,980227073.2681452
+W-H5,Wet Season,Hangbu River,nxrA,810540835.3801665
+W-H6,Wet Season,Hangbu River,nxrA,1042606335.1964798
+W-H7,Wet Season,Hangbu River,nxrA,1607767249.8328304
+W-H8,Wet Season,Hangbu River,nxrA,1148293791.92767
+W-H9,Wet Season,Hangbu River,nxrA,722891162.9469894
+W-N1,Wet Season,Nanfei River,nxrA,283876569.93593657
+W-N10,Wet Season,Nanfei River,nxrA,166425313.47884628
+W-N11,Wet Season,Nanfei River,nxrA,436803792.13797814
+W-N12,Wet Season,Nanfei River,nxrA,273026147.9573181
+W-N2,Wet Season,Nanfei River,nxrA,458439318.49961275
+W-N3,Wet Season,Nanfei River,nxrA,267067947.36733696
+W-N4,Wet Season,Nanfei River,nxrA,318085210.7030822
+W-N5,Wet Season,Nanfei River,nxrA,156250782.7462391
+W-N6,Wet Season,Nanfei River,nxrA,378376225.9210711
+W-N7,Wet Season,Nanfei River,nxrA,254194996.3586466
+W-N8,Wet Season,Nanfei River,nxrA,348551395.8742155
+W-N9,Wet Season,Nanfei River,nxrA,99481874.6571923
+W-P1,Wet Season,Pai River,nxrA,386595985.8998634
+W-P10,Wet Season,Pai River,nxrA,292287204.4342054
+W-P11,Wet Season,Pai River,nxrA,339035534.87940574
+W-P12,Wet Season,Pai River,nxrA,305628459.78429693
+W-P2,Wet Season,Pai River,nxrA,334365385.20837957
+W-P3,Wet Season,Pai River,nxrA,671868411.6841241
+W-P4,Wet Season,Pai River,nxrA,1905909682.9805045
+W-P5,Wet Season,Pai River,nxrA,684992632.2602682
+W-P6,Wet Season,Pai River,nxrA,1210541367.1477668
+W-P7,Wet Season,Pai River,nxrA,1145202911.4992878
+W-P8,Wet Season,Pai River,nxrA,770313694.3178453
+W-P9,Wet Season,Pai River,nxrA,1555065437.7440743
