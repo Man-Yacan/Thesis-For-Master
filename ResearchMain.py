@@ -23,9 +23,6 @@ import math
 plt.rcParams['font.sans-serif'] = ['SimHei']  # 用于显示中文
 plt.rcParams['axes.unicode_minus'] = False
 
-# seaborn绘图设置
-sns.set_theme(style="darkgrid", font='Times New Roman')
-
 # 定义常量
 CHAR = [chr(i) for i in range(97, 123)]  # 获取26个英文字母，用于给子图编号
 DATA_PATH, EXPORT_PATH, DPI = './data/', './export/', 300
@@ -39,6 +36,7 @@ DATA_NAME_LIST = {  # 所有需要用到的文件名
     '三维荧光': '../export/EEMs.csv',
     '拟合曲线': '../export/fitting_formula.csv',
 }
+IMG_TYPE = '.svg'
 # 读取csv文件
 overlying_water_env_df = pd.read_csv(
     DATA_PATH + DATA_NAME_LIST['上覆水环境因子'], index_col=0)  # 上覆水环境因子
@@ -115,7 +113,7 @@ unit = {
     'S-TP': 'mg/kg',
     'S-pH': '-'
 }
-FILE_TYPE = 'svg'
+IMG_TYPE = '.svg'
 
 
 # 定义常用函数
