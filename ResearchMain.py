@@ -97,7 +97,7 @@ all_df.pop('SortNum')
 period_list = all_df['Period'].unique().tolist()
 river_list = all_df['River'].unique().tolist()
 gene_list = ['Bacterial 16S rRNA', 'Archaeal 16S rRNA', 'AOA_amoA', 'AOB_amoA', 'nxrA',
-             'narG', 'napA', 'nirK', 'nirS', 'nosZ', 'cnorB', 'hzsA', 'hzsB', 'hzo', 'nifH']
+             'narG', 'napA', 'nirK', 'nirS', 'nosZ', 'norB', 'hzsA', 'hzsB', 'hzo', 'nifH']
 unit = {
     'W-TN': 'mg/L',
     'W-NO_{3}^{-}': 'mg/L',
