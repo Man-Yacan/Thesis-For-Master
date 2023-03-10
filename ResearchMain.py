@@ -79,7 +79,7 @@ all_df['River'] = all_df.apply(lambda x: 'Nanfei' if 'N' in x.name else ('Pai' i
                                axis=1) + ' River'
 all_df['SortNum'] = all_df.index.str[3:].astype(float)
 
-# 对季节、河流两列进行排序
+# 对季节、河流两列进行排序，首先定义category类型顺序
 river_order = CategoricalDtype(
     ['Nanfei River', 'Pai River', 'Hangbu River'],
     ordered=True
