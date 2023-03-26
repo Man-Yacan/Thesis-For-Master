@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1323.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-665.000000 -654.000000 1323.000000 1306.000000" height="1306.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Bacterial_16S_rRNA id_S-TP"
+              d="M 526.293457,-345.782166 A 207.323384,207.323384 0,0 1,597.461670,-198.863220"
+              stroke="#b32d3c" stroke-width="1.7017922" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Archaeal_16S_rRNA id_S-TP"
+              d="M 586.746216,61.687443 A 210.555348,210.555348 0,0 1,572.728760,-104.942093"
+              stroke="#ac0317" stroke-width="7.6008058" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_AOA_amoA id_W-pH"
+              d="M -24.284773,-396.655853 A 203.230710,203.230710 0,0 1,133.809280,-390.392151"
+              stroke="#02d000" stroke-width="8.116491" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_AOA_amoA id_W-COD"
+              d="M -111.885391,-396.541077 A 205.446769,205.446769 0,0 1,-198.513977,-532.180176"
+              stroke="#af1627" stroke-width="5.674889" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_AOB_amoA id_Ⅳ-Area"
+              d="M 255.801682,-535.159729 A 217.711987,217.711987 0,0 1,84.915161,-577.273071"
+              stroke="#49ce48" stroke-width="1.3333921" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_narG id_W-DO"
+              d="M -375.756104,431.960022 A 195.694687,195.694687 0,0 1,-242.692917,365.039276"
+              stroke="#48ce47" stroke-width="1.5349458" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_narG id_W-T"
+              d="M -392.509399,424.827240 A 382.648758,382.648758 0,0 1,-123.477127,161.471115"
+              stroke="#3fce3e" stroke-width="3.328179" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_napA id_Ⅰ-Area"
+              d="M 293.491058,557.714966 A 410.182962,410.182962 0,0 1,-111.298859,621.298889"
+              stroke="#b12636" stroke-width="3.0973482" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_nirK id_W-pH"
+              d="M -139.383041,-123.128792 A 364.280610,364.280610 0,0 1,126.750458,-356.950348"
+              stroke="#0ecf0c" stroke-width="7.169452" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_nirK id_W-TN"
+              d="M -196.781616,-97.998756 A 203.295839,203.295839 0,0 1,-283.260345,-230.587372"
+              stroke="#b32c3c" stroke-width="1.7119702" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_nosZ id_W-pH"
+              d="M 289.409119,-190.154648 A 207.617141,207.617141 0,0 1,184.195511,-315.446899"
+              stroke="#1acf18" stroke-width="8.812167" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_cnorB id_S-TN"
+              d="M 87.067581,415.060089 A 196.899076,196.899076 0,0 1,111.646454,563.465393"
+              stroke="#ac0014" stroke-width="6.946576" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hzsA id_FI"
+              d="M -297.539246,130.295654 A 609.264756,609.264756 0,0 1,345.543091,37.524662"
+              stroke="#48ce47" stroke-width="1.53238" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hzsA id_HIX"
+              d="M -378.134613,142.018158 A 390.409530,390.409530 0,0 1,-574.282166,-190.267212"
+              stroke="#ac0216" stroke-width="8.579802" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hzsA id_Ⅲ-Area"
+              d="M -361.229950,204.924316 A 201.152069,201.152069 0,0 1,-500.572083,274.309296"
+              stroke="#b22838" stroke-width="3.9596922" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hzsA id_Ⅴ-Area"
+              d="M -370.245392,130.470993 A 195.971418,195.971418 0,0 1,-416.108856,-11.593740"
+              stroke="#b01a2b" stroke-width="5.136219" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hzsA id_W-DO"
+              d="M -289.196442,185.041336 A 206.207369,206.207369 0,0 1,-197.313217,318.314392"
+              stroke="#49ce48" stroke-width="1.3601984" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hzsA id_W-TN"
+              d="M -356.174988,119.783630 A 371.921168,371.921168 0,0 1,-317.264069,-241.630783"
+              stroke="#35ce34" stroke-width="5.007875" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hzsA id_W-NO_{3}^{-}"
+              d="M -317.561768,117.180939 A 425.618625,425.618625 0,0 1,23.431564,-142.137695"
+              stroke="#2dcf2b" stroke-width="6.1499877" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hzsA id_W-T"
+              d="M -292.357483,136.963364 A 215.889274,215.889274 0,0 1,-118.779266,128.932739"
+              stroke="#40ce3f" stroke-width="3.1679277" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hzsB id_Ⅰ-Area"
+              d="M 259.375732,335.782654 A 444.406568,444.406568 0,0 1,-106.885216,599.073059"
+              stroke="#4bce4a" stroke-width="0.90000004" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hzsB id_Ⅱ-Area"
+              d="M 323.494934,273.533447 A 203.731058,203.731058 0,0 1,479.411865,303.830933"
+              stroke="#35ce34" stroke-width="4.994178" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hzsB id_W-DO"
+              d="M 240.471420,323.060455 A 397.122482,397.122482 0,0 1,-148.186615,387.555511"
+              stroke="#38ce36" stroke-width="4.6346655" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hzsB id_W-T"
+              d="M 228.267822,298.964600 A 314.805667,314.805667 0,0 1,-45.806934,191.694443"
+              stroke="#3cce3a" stroke-width="3.971575" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hzo id_W-DO"
+              d="M 134.343781,125.802315 A 373.106344,373.106344 0,0 1,-144.340012,361.416534"
+              stroke="#b22737" stroke-width="2.7952745" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hzo id_W-T"
+              d="M 115.368179,115.085838 A 196.085452,196.085452 0,0 1,-26.607056,161.678024"
+              stroke="#b22c3c" stroke-width="1.8128976" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_nifH id_W-pH"
+              d="M -378.928375,-479.986908 A 505.652191,505.652191 0,0 1,139.544937,-397.835815"
+              stroke="#17cf15" stroke-width="9.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill="#9a96e5" r="35.616" fill-opacity="0.6"
+                class="id_Bacterial_16S_rRNA" cx="485.4002" cy="-373.4968"/>
+        <circle fill="none" r="39.008003" cx="485.4002" cy="-373.4968"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#f97743" r="35.616" fill-opacity="0.6" class="id_S-TP"
+                cx="593.8593" cy="-149.59474"/>
+        <circle fill="none" r="39.008003" cx="593.8593" cy="-149.59474"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#9a96e5" r="35.616" fill-opacity="0.6"
+                class="id_Archaeal_16S_rRNA" cx="615.0397" cy="102.18237"/>
+        <circle fill="none" r="39.008003" cx="615.0397" cy="102.18237"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#28b36a" r="35.616" fill-opacity="0.6" class="id_W-TN"
+                cx="-286.0372" cy="-279.90927"/>
+        <circle fill="none" r="39.008003" cx="-286.0372" cy="-279.90927"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#9a96e5" r="35.616" fill-opacity="0.6" class="id_AOA_amoA"
+                cx="-68.05515" cy="-373.75357"/>
+        <circle fill="none" r="39.008003" cx="-68.05515" cy="-373.75357"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#28b36a" r="35.616" fill-opacity="0.6" class="id_W-pH"
+                cx="175.63052" cy="-364.09872"/>
+        <circle fill="none" r="39.008003" cx="175.63052" cy="-364.09872"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#28b36a" r="35.616" fill-opacity="0.6" class="id_W-COD"
+                cx="-200.75523" cy="-581.5293"/>
+        <circle fill="none" r="39.008003" cx="-200.75523" cy="-581.5293"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#9a96e5" r="35.616" fill-opacity="0.6" class="id_AOB_amoA"
+                cx="303.16458" cy="-549.1995"/>
+        <circle fill="none" r="39.008003" cx="303.16458" cy="-549.1995"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#f97743" r="35.616" fill-opacity="0.6" class="id_Ⅳ-Area"
+                cx="49.49956" cy="-611.7128"/>
+        <circle fill="none" r="39.008003" cx="49.49956" cy="-611.7128"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#9a96e5" r="35.616" fill-opacity="0.6" class="id_narG"
+                cx="-403.15265" cy="473.06708"/>
+        <circle fill="none" r="39.008003" cx="-403.15265" cy="473.06708"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#28b36a" r="35.616" fill-opacity="0.6" class="id_W-DO"
+                cx="-193.35706" cy="367.55573"/>
+        <circle fill="none" r="39.008003" cx="-193.35706" cy="367.55573"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#28b36a" r="35.616" fill-opacity="0.6" class="id_W-T"
+                cx="-75.02134" cy="151.8588"/>
+        <circle fill="none" r="39.008003" cx="-75.02134" cy="151.8588"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#9a96e5" r="35.616" fill-opacity="0.6" class="id_napA"
+                cx="330.00293" cy="524.4397"/>
+        <circle fill="none" r="39.008003" cx="330.00293" cy="524.4397"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#f97743" r="35.616" fill-opacity="0.6" class="id_Ⅰ-Area"
+                cx="-156.2543" cy="600.82043"/>
+        <circle fill="none" r="39.008003" cx="-156.2543" cy="600.82043"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#9a96e5" r="35.616" fill-opacity="0.6" class="id_nirK"
+                cx="-152.7639" cy="-75.57553"/>
+        <circle fill="none" r="39.008003" cx="-152.7639" cy="-75.57553"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#9a96e5" r="35.616" fill-opacity="0.6" class="id_nosZ"
+                cx="335.84732" cy="-173.30667"/>
+        <circle fill="none" r="39.008003" cx="335.84732" cy="-173.30667"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#9a96e5" r="35.616" fill-opacity="0.6" class="id_cnorB"
+                cx="55.93401" cy="376.7057"/>
+        <circle fill="none" r="39.008003" cx="55.93401" cy="376.7057"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#f97743" r="35.616" fill-opacity="0.6" class="id_S-TN"
+                cx="94.540596" cy="609.8092"/>
+        <circle fill="none" r="39.008003" cx="94.540596" cy="609.8092"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#f97743" r="35.616" fill-opacity="0.6" class="id_HIX"
+                cx="-571.96436" cy="-239.61281"/>
+        <circle fill="none" r="39.008003" cx="-571.96436" cy="-239.61281"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#9a96e5" r="35.616" fill-opacity="0.6" class="id_hzsA"
+                cx="-333.81165" cy="163.83179"/>
+        <circle fill="none" r="39.008003" cx="-333.81165" cy="163.83179"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#f97743" r="35.616" fill-opacity="0.6" class="id_FI"
+                cx="389.81516" cy="59.441437"/>
+        <circle fill="none" r="39.008003" cx="389.81516" cy="59.441437"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#f97743" r="35.616" fill-opacity="0.6" class="id_Ⅲ-Area"
+                cx="-549.8879" cy="271.42627"/>
+        <circle fill="none" r="39.008003" cx="-549.8879" cy="271.42627"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#f97743" r="35.616" fill-opacity="0.6" class="id_Ⅴ-Area"
+                cx="-406.0597" cy="-59.960823"/>
+        <circle fill="none" r="39.008003" cx="-406.0597" cy="-59.960823"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#28b36a" r="35.616" fill-opacity="0.6"
+                class="id_W-NO_{2}^{-}" cx="-622.726" cy="30.794476"/>
+        <circle fill="none" r="39.008003" cx="-622.726" cy="30.794476"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#28b36a" r="35.616" fill-opacity="0.6"
+                class="id_W-NO_{3}^{-}" cx="72.72808" cy="-145.33359"/>
+        <circle fill="none" r="39.008003" cx="72.72808" cy="-145.33359"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#9a96e5" r="35.616" fill-opacity="0.6" class="id_hzsB"
+                cx="276.76105" cy="289.54294"/>
+        <circle fill="none" r="39.008003" cx="276.76105" cy="289.54294"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#f97743" r="35.616" fill-opacity="0.6" class="id_Ⅱ-Area"
+                cx="516.7494" cy="336.177"/>
+        <circle fill="none" r="39.008003" cx="516.7494" cy="336.177"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#9a96e5" r="35.616" fill-opacity="0.6" class="id_hzo"
+                cx="148.55008" cy="78.48909"/>
+        <circle fill="none" r="39.008003" cx="148.55008" cy="78.48909"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+        <circle fill="#9a96e5" r="35.616" fill-opacity="0.6" class="id_nifH"
+                cx="-423.67575" cy="-459.05765"/>
+        <circle fill="none" r="39.008003" cx="-423.67575" cy="-459.05765"
+                stroke="#000000" stroke-opacity="0.6" stroke-width="6.784"/>
+    </g>
+</svg>
